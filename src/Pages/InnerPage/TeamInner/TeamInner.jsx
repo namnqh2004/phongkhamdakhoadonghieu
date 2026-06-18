@@ -1,93 +1,78 @@
-import teamThumb from '/images/team5.jpg';
-import teamThumb2 from '/images/team6.jpg';
-import teamThumb3 from '/images/team7.jpg';
-import teamThumb4 from '/images/team8.jpg';
-import teamThumb5 from '/images/team9.jpg';
-import teamThumb6 from '/images/team10.jpg';
-import teamThumb7 from '/images/team11.jpg';
-import teamThumb8 from '/images/team4.jpg';
-import TeamInnerCard from './TeamInnerCard';
+import teamThumb from "/images/dung.jpg";
+import teamThumb2 from "/images/kieu.jpg";
+import teamThumb3 from "/images/tam.jpg";
+import teamThumb4 from "/images/trung.jpg";
+import teamThumb5 from "/images/dinh.jpg";
+import teamThumb6 from "/images/man.jpg";
+import TeamInnerCard from "./TeamInnerCard";
 import {
   FaArrowRightLong,
   FaFacebookF,
   FaLinkedinIn,
   FaXTwitter,
-} from 'react-icons/fa6';
-import BreadCrumb from '../../../Shared/BreadCrumb/BreadCrumb';
-import Subscribe from '../../../Component1/Subscribe/Subscribe';
+} from "react-icons/fa6";
+import BreadCrumb from "../../../Shared/BreadCrumb/BreadCrumb";
+import Subscribe from "../../../Component1/Subscribe/Subscribe";
 
 const teamData = [
   {
-    id: 1,
-    teamThumb: teamThumb,
-    teamTitle: 'Connie Diaz',
-    socialIcon: <FaFacebookF />,
-    socialIcon2: <FaXTwitter />,
-    socialIcon3: <FaLinkedinIn />,
-    teamDesc: 'Dentist',
-  },
-  {
     id: 2,
-    teamThumb: teamThumb2,
-    teamTitle: 'James E. Huey',
+    teamThumb: teamThumb,
+    teamTitle: "BS. Chu Tiến Dũng",
     socialIcon: <FaFacebookF />,
     socialIcon2: <FaXTwitter />,
     socialIcon3: <FaLinkedinIn />,
-    teamDesc: 'Therapist',
+    teamDesc: "Bác sĩ CKI Ngoại",
   },
-  {
-    id: 3,
-    teamThumb: teamThumb4,
-    teamTitle: 'Alaina Rozy',
-    socialIcon: <FaFacebookF />,
-    socialIcon2: <FaXTwitter />,
-    socialIcon3: <FaLinkedinIn />,
-    teamDesc: 'Medicine Expert',
-  },
-  {
-    id: 4,
-    teamThumb: teamThumb3,
-    teamTitle: 'June D. Vargas',
-    socialIcon: <FaFacebookF />,
-    socialIcon2: <FaXTwitter />,
-    socialIcon3: <FaLinkedinIn />,
-    teamDesc: 'Surjuon',
-  },
+
   {
     id: 5,
     teamThumb: teamThumb5,
-    teamTitle: 'David Miller',
+    teamTitle: "BS. Nguyễn Nam Đình",
     socialIcon: <FaFacebookF />,
     socialIcon2: <FaXTwitter />,
     socialIcon3: <FaLinkedinIn />,
-    teamDesc: 'Nuro Scientist',
+    teamDesc: "Bác sĩ CKII Nội",
   },
+
+  {
+    id: 4,
+    teamThumb: teamThumb4,
+    teamTitle: "BS. Lê Quốc Trung",
+    socialIcon: <FaFacebookF />,
+    socialIcon2: <FaXTwitter />,
+    socialIcon3: <FaLinkedinIn />,
+    teamDesc: "Bác sĩ CKI CĐHA",
+  },
+
+  {
+    id: 3,
+    teamThumb: teamThumb3,
+    teamTitle: "BS. Lương Thị Tâm",
+    socialIcon: <FaFacebookF />,
+    socialIcon2: <FaXTwitter />,
+    socialIcon3: <FaLinkedinIn />,
+    teamDesc: "Bác sĩ CKI Nội",
+  },
+
   {
     id: 6,
     teamThumb: teamThumb6,
-    teamTitle: 'Merina Mario',
+    teamTitle: "BS. Nguyễn Hữu Mẫn",
     socialIcon: <FaFacebookF />,
     socialIcon2: <FaXTwitter />,
     socialIcon3: <FaLinkedinIn />,
-    teamDesc: 'Nurse',
+    teamDesc: "Bác sĩ Y học cổ truyền",
   },
+
   {
-    id: 7,
-    teamThumb: teamThumb7,
-    teamTitle: 'Jone D. Alexon',
+    id: 1,
+    teamThumb: teamThumb2,
+    teamTitle: "BS. Lô Văn Kiều",
     socialIcon: <FaFacebookF />,
     socialIcon2: <FaXTwitter />,
     socialIcon3: <FaLinkedinIn />,
-    teamDesc: 'Heard Specialist',
-  },
-  {
-    id: 8,
-    teamThumb: teamThumb8,
-    teamTitle: 'Mila Rahman',
-    socialIcon: <FaFacebookF />,
-    socialIcon2: <FaXTwitter />,
-    socialIcon3: <FaLinkedinIn />,
-    teamDesc: 'Skin Specialist',
+    teamDesc: "Bác sĩ Sản phụ khoa",
   },
 ];
 
@@ -95,16 +80,16 @@ const TeamInner = () => {
   return (
     <>
       <BreadCrumb
-        breadCrumbTitle={'Team Member'}
+        breadCrumbTitle={"Bác sĩ"}
         breadCrumbIcon={<FaArrowRightLong />}
-        breadCrumbLink={'Team Member'}
+        breadCrumbLink={"Bác sĩ"}
       />
-      <section className='bg-BodyBg-0 bg-no-repeat bg-cover bg-center py-28 relative'>
-        <div className='Container'>
+      <section className="bg-BodyBg-0 bg-no-repeat bg-cover bg-center py-28 relative">
+        <div className="Container">
           <div
-            className='grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-7'
-            data-aos='fade-up'
-            data-aos-duration='1000'
+            className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-7"
+            data-aos="fade-up"
+            data-aos-duration="1000"
           >
             {teamData.map(
               ({
@@ -128,7 +113,7 @@ const TeamInner = () => {
                     />
                   </div>
                 );
-              }
+              },
             )}
           </div>
         </div>

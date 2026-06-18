@@ -69,9 +69,9 @@ const SocialContactWidgets = () => {
 
         {/* Khung hiển thị Số Điện Thoại bung ra mượt mà từ cạnh bên */}
         <div className={`absolute left-16 bg-white border border-emerald-100 rounded-xl py-1.5 px-3.5 shadow-xl transition-all duration-300 transform origin-left z-20 ${showPhoneTooltip ? 'scale-100 opacity-100' : 'scale-0 opacity-0'}`}>
-          <p className="text-[10px] text-gray-400 font-bold uppercase tracking-wider">Hotline Đặt Lịch</p>
-          <a href="tel:02383xxxxxx" className="text-[#16a748] font-extrabold text-sm whitespace-nowrap hover:underline">
-            02383.xxx.xxx
+          <p className="text-[10px] text-gray-400 font-bold uppercase tracking-wider">Hotline</p>
+          <a href="tel:0975161115" className="text-[#16a748] font-extrabold text-sm whitespace-nowrap hover:underline">
+            0975 161 115
           </a>
         </div>
       </div>

@@ -1,4 +1,4 @@
-import { Link } from "react-router-dom";
+import { Link, useNavigate } from "react-router-dom";
 import Logo from "/images/logo.png";
 import Logo2 from "/images/logo2.png";
 // import homeOne from "/images/home1.png";
@@ -120,10 +120,12 @@ const Navbar = () => {
   let headerIcon = `  
   <span className="header-icon">  
     <svg fill="currentColor" viewBox="0 0 320 512" height="15px" width="15px" xmlns="http://www.w3.org/2000/svg">
-      <path d="M310.6 233.4c12.5 12.5 12.5 32.8 0 45.3l-192 192c-12.5 12.5-32.8 12.5-45.3 0s-12.5-32.8 0-45.3L242.7 256 73.4 86.6c-12.5-12.5-12.5-32.8 0-45.3s32.8-12.5 45.3 0l192 192z"></path>
+      <path d="M310.6 233.4c12.5 12.5 12.5 32.8 0 45.3l-192 192c-12.5 12.5-32.8 12.5-45.3 0s-12.5-32.8 0-45.3L242.7 256 73.4 86.6c-12.5 12.5-12.5 32.8 0 45.3s32.8-12.5 45.3 0l192 192z"></path>
     </svg>
   </span>  
 `;
+
+  const navigate = useNavigate();
 
   useEffect(() => {
     const mainMenuContent = document.querySelector(".main-menu-content");
@@ -133,7 +135,20 @@ const Navbar = () => {
       const navContent = mainMenuContent.outerHTML;
       mainMenuMobile.innerHTML = navContent;
 
-      const arrows = document.querySelectorAll(
+      const menuLinks = mainMenuMobile.querySelectorAll("a");
+      menuLinks.forEach((link) => {
+        const href = link.getAttribute("href");
+        if (href && href.startsWith("/")) {
+          link.addEventListener("click", (event) => {
+            event.preventDefault();
+            if (href !== window.location.pathname) {
+              navigate(href);
+            }
+          });
+        }
+      });
+
+      const arrows = mainMenuMobile.querySelectorAll(
         ".main-menu-mobile .has-dropdown > a",
       );
 
@@ -168,7 +183,7 @@ const Navbar = () => {
         });
       });
     }
-  }, [headerIcon]);
+  }, [headerIcon, navigate]);
 
   //Menu Search
   const handleMenuSearchClick = () => {
@@ -332,30 +347,27 @@ const Navbar = () => {
           </div>
 
           {/* Bên phải: Hotline */}
-          <div className="flex items-center space-x-1.5 font-medium">
-            <svg
-              className="w-4 h-4 text-white animate-pulse flex-shrink-0"
-              fill="none"
-              stroke="currentColor"
-              strokeWidth="2"
-              viewBox="0 0 24 24"
-            >
-              <path
-                strokeLinecap="round"
-                strokeLinejoin="round"
-                d="M3 5a2 2 0 012-2h3.28a1 1 0 01.94.725l.548 2.2a1 1 0 01-.321.988l-1.305.98a10.582 10.582 0 004.872 4.872l.98-1.305a1 1 0 01.988-.321l2.2.548a1 1 0 01.725.94V19a2 2 0 01-2 2h-1C9.716 21 3 14.284 3 6V5z"
-              />
-            </svg>
-            <span>
-              Hotline:{" "}
-              <a
-                href="tel:0123456789"
-                className="hover:underline transition-all font-semibold"
-              >
-                0975 161 115
-              </a>
-            </span>
-          </div>
+          <div className="flex items-center">
+  <a
+    href="tel:0975161115"
+    className="flex items-center gap-2 bg-white text-green-700 px-4 py-2 rounded-full shadow-lg hover:scale-105 transition-all duration-300 font-bold"
+  >
+    <svg
+      className="w-5 h-5 animate-pulse"
+      fill="none"
+      stroke="currentColor"
+      strokeWidth="2.5"
+      viewBox="0 0 24 24"
+    >
+      <path
+        strokeLinecap="round"
+        strokeLinejoin="round"
+        d="M3 5a2 2 0 012-2h3.28a1 1 0 01.94.725l.548 2.2a1 1 0 01-.321.988l-1.305.98a10.582 10.582 0 004.872 4.872l.98-1.305a1 1 0 01.988-.321l2.2.548a1 1 0 01.725.94V19a2 2 0 01-2 2h-1C9.716 21 3 14.284 3 6V5z"
+      />
+    </svg>
+    <span>Hotline: 0975 161 115</span>
+  </a>
+</div>
         </div>
       </div>
 
@@ -479,11 +491,11 @@ const Navbar = () => {
                     </li>
                     <li className="has-dropdown">
                       <Link to={"/"}>Chuyên khoa</Link>
-                      {/* <ul className="submenu">
-                        <li>
-                          <Link to={"/blog_grid"}>blog grid</Link>
+                      <ul className="submenu">
+                       <li>
+                          <Link to={"/team"}>Bác sĩ</Link>
                         </li>
-                        <li>
+                        {/* <li>
                           <Link to={"/blog_left_sidebar"}>
                             blog left sidebar
                           </Link>
@@ -495,8 +507,8 @@ const Navbar = () => {
                         </li>
                         <li>
                           <Link to={"/blog_details"}>blog details</Link>
-                        </li>
-                      </ul> */}
+                        </li> */}
+                      </ul>
                     </li>
                     <li>
                       <Link to={"/contact"}>Liên hệ</Link>

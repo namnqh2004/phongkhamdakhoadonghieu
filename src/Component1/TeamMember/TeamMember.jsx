@@ -23,7 +23,7 @@ const teamData = [
    {
     id: 1,
     teamThumb: teamThumb2,
-    teamTitle: 'Lô Văn Kiều',
+    teamTitle: 'BS. Lô Văn Kiều',
     socialIcon: <FaFacebookF />,
     socialIcon2: <FaXTwitter />,
     socialIcon3: <FaLinkedinIn />,
@@ -33,7 +33,7 @@ const teamData = [
   {
     id: 2,
     teamThumb: teamThumb,
-    teamTitle: 'Chu Tiến Dũng',
+    teamTitle: 'BS. Chu Tiến Dũng',
     socialIcon: <FaFacebookF />,
     socialIcon2: <FaXTwitter />,
     socialIcon3: <FaLinkedinIn />,
@@ -44,7 +44,7 @@ const teamData = [
   {
     id: 3,
     teamThumb: teamThumb3,
-    teamTitle: 'Lương Thị Tâm',
+    teamTitle: 'BS. Lương Thị Tâm',
     socialIcon: <FaFacebookF />,
     socialIcon2: <FaXTwitter />,
     socialIcon3: <FaLinkedinIn />,
@@ -54,7 +54,7 @@ const teamData = [
   {
     id: 4,
     teamThumb: teamThumb4,
-    teamTitle: 'Lê Quốc Trung',
+    teamTitle: 'BS. Lê Quốc Trung',
     socialIcon: <FaFacebookF />,
     socialIcon2: <FaXTwitter />,
     socialIcon3: <FaLinkedinIn />,
@@ -64,7 +64,7 @@ const teamData = [
   {
     id: 5,
     teamThumb: teamThumb5,
-    teamTitle: 'Nguyễn Nam Đình',
+    teamTitle: 'BS. Nguyễn Nam Đình',
     socialIcon: <FaFacebookF />,
     socialIcon2: <FaXTwitter />,
     socialIcon3: <FaLinkedinIn />,
@@ -74,7 +74,7 @@ const teamData = [
   {
     id: 6,
     teamThumb: teamThumb6,
-    teamTitle: 'Nguyễn Hữu Mẫn',
+    teamTitle: 'BS. Nguyễn Hữu Mẫn',
     socialIcon: <FaFacebookF />,
     socialIcon2: <FaXTwitter />,
     socialIcon3: <FaLinkedinIn />,
