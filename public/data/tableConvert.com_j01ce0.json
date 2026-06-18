@@ -1,0 +1,4266 @@
+[
+  {
+    "STT": "1",
+    "MA_TUONG_DUONG": "",
+    "TEN_DVKT_GIA": "Khám bệnh",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "36500",
+    "NHOM": "0"
+  },
+  {
+    "STT": "2",
+    "MA_TUONG_DUONG": "",
+    "TEN_DVKT_GIA": "Khám sức khỏe",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "160000",
+    "NHOM": "0"
+  },
+  {
+    "STT": "3",
+    "MA_TUONG_DUONG": "22.0151.1594",
+    "TEN_DVKT_GIA": "Cặn Addis",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "44800",
+    "NHOM": "1"
+  },
+  {
+    "STT": "4",
+    "MA_TUONG_DUONG": "22.0021.1219",
+    "TEN_DVKT_GIA": "Co cục máu đông (Tên khác: Co cục máu)",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "16000",
+    "NHOM": "1"
+  },
+  {
+    "STT": "5",
+    "MA_TUONG_DUONG": "24.0183.1637",
+    "TEN_DVKT_GIA": "Dengue virus NS1Ag test nhanh",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "142500",
+    "NHOM": "1"
+  },
+  {
+    "STT": "6",
+    "MA_TUONG_DUONG": "23.0003.1494",
+    "TEN_DVKT_GIA": "Định lượng Acid Uric [Máu]",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "22400",
+    "NHOM": "1"
+  },
+  {
+    "STT": "7",
+    "MA_TUONG_DUONG": "23.0007.1494",
+    "TEN_DVKT_GIA": "Định lượng Albumin [Máu]",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "22400",
+    "NHOM": "1"
+  },
+  {
+    "STT": "8",
+    "MA_TUONG_DUONG": "23.0176.1598",
+    "TEN_DVKT_GIA": "Định lượng Axit Uric [niệu]",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "16800",
+    "NHOM": "1"
+  },
+  {
+    "STT": "9",
+    "MA_TUONG_DUONG": "23.0024.1464",
+    "TEN_DVKT_GIA": "Định lượng bhCG (Beta human Chorionic Gonadotropins) [Máu]",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "89700",
+    "NHOM": "1"
+  },
+  {
+    "STT": "10",
+    "MA_TUONG_DUONG": "23.0026.1493",
+    "TEN_DVKT_GIA": "Định lượng Bilirubin gián tiếp [Máu]",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "22400",
+    "NHOM": "1"
+  },
+  {
+    "STT": "11",
+    "MA_TUONG_DUONG": "23.0027.1493",
+    "TEN_DVKT_GIA": "Định lượng Bilirubin toàn phần [Máu]",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "22400",
+    "NHOM": "1"
+  },
+  {
+    "STT": "12",
+    "MA_TUONG_DUONG": "23.0025.1493",
+    "TEN_DVKT_GIA": "Định lượng Bilirubin trực tiếp [Máu]",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "22400",
+    "NHOM": "1"
+  },
+  {
+    "STT": "13",
+    "MA_TUONG_DUONG": "23.0029.1473",
+    "TEN_DVKT_GIA": "Định lượng Canxi toàn phần [Máu]",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "13400",
+    "NHOM": "1"
+  },
+  {
+    "STT": "14",
+    "MA_TUONG_DUONG": "23.0041.1506",
+    "TEN_DVKT_GIA": "Định lượng Cholesterol toàn phần (máu)",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "28000",
+    "NHOM": "1"
+  },
+  {
+    "STT": "15",
+    "MA_TUONG_DUONG": "23.0051.1494",
+    "TEN_DVKT_GIA": "Định lượng Creatinin (máu)",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "22400",
+    "NHOM": "1"
+  },
+  {
+    "STT": "16",
+    "MA_TUONG_DUONG": "23.0187.1593",
+    "TEN_DVKT_GIA": "Định lượng Glucose (niệu)",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "14400",
+    "NHOM": "1"
+  },
+  {
+    "STT": "17",
+    "MA_TUONG_DUONG": "23.0075.1494",
+    "TEN_DVKT_GIA": "Định lượng Glucose [Máu]",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "22400",
+    "NHOM": "1"
+  },
+  {
+    "STT": "18",
+    "MA_TUONG_DUONG": "23.0083.1523",
+    "TEN_DVKT_GIA": "Định lượng HbA1c [Máu]",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "105300",
+    "NHOM": "1"
+  },
+  {
+    "STT": "19",
+    "MA_TUONG_DUONG": "23.0084.1506",
+    "TEN_DVKT_GIA": "Định lượng HDL-C (High density lipoprotein Cholesterol) [Máu]",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "28000",
+    "NHOM": "1"
+  },
+  {
+    "STT": "20",
+    "MA_TUONG_DUONG": "23.0112.1506",
+    "TEN_DVKT_GIA": "Định lượng LDL-C (Low density lipoprotein Cholesterol) [Máu]",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "28000",
+    "NHOM": "1"
+  },
+  {
+    "STT": "21",
+    "MA_TUONG_DUONG": "23.0133.1494",
+    "TEN_DVKT_GIA": "Định lượng Protein toàn phần [Máu]",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "22400",
+    "NHOM": "1"
+  },
+  {
+    "STT": "22",
+    "MA_TUONG_DUONG": "23.0147.1561",
+    "TEN_DVKT_GIA": "Định lượng T3 (Tri iodothyronine) [Máu]",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "67300",
+    "NHOM": "1"
+  },
+  {
+    "STT": "23",
+    "MA_TUONG_DUONG": "23.0148.1561",
+    "TEN_DVKT_GIA": "Định lượng T4 (Thyroxine) [Máu]",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "67300",
+    "NHOM": "1"
+  },
+  {
+    "STT": "24",
+    "MA_TUONG_DUONG": "23.0158.1506",
+    "TEN_DVKT_GIA": "Định lượng Triglycerid (máu) [Máu]",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "28000",
+    "NHOM": "1"
+  },
+  {
+    "STT": "25",
+    "MA_TUONG_DUONG": "23.0162.1570",
+    "TEN_DVKT_GIA": "Định lượng TSH (Thyroid Stimulating hormone) [Máu]",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "61700",
+    "NHOM": "1"
+  },
+  {
+    "STT": "26",
+    "MA_TUONG_DUONG": "23.0166.1494",
+    "TEN_DVKT_GIA": "Định lượng Urê máu [Máu]",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "22400",
+    "NHOM": "1"
+  },
+  {
+    "STT": "27",
+    "MA_TUONG_DUONG": "22.0279.1269",
+    "TEN_DVKT_GIA": "Định nhóm máu hệ ABO (kỹ thuật ống nghiệm)",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "42100",
+    "NHOM": "1"
+  },
+  {
+    "STT": "28",
+    "MA_TUONG_DUONG": "22.0280.1269",
+    "TEN_DVKT_GIA": "Định nhóm máu hệ ABO (kỹ thuật phiến đá)",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "42100",
+    "NHOM": "1"
+  },
+  {
+    "STT": "29",
+    "MA_TUONG_DUONG": "23.0019.1493",
+    "TEN_DVKT_GIA": "Đo hoạt độ ALT (GPT) [Máu]",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "22400",
+    "NHOM": "1"
+  },
+  {
+    "STT": "30",
+    "MA_TUONG_DUONG": "23.0010.1494",
+    "TEN_DVKT_GIA": "Đo hoạt độ Amylase [Máu]",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "22400",
+    "NHOM": "1"
+  },
+  {
+    "STT": "31",
+    "MA_TUONG_DUONG": "23.0020.1493",
+    "TEN_DVKT_GIA": "Đo hoạt độ AST (GOT) [Máu]",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "22400",
+    "NHOM": "1"
+  },
+  {
+    "STT": "32",
+    "MA_TUONG_DUONG": "23.0077.1518",
+    "TEN_DVKT_GIA": "Đo hoạt độ GGT (Gama Glutamyl Transferase) [Máu]",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "20000",
+    "NHOM": "1"
+  },
+  {
+    "STT": "33",
+    "MA_TUONG_DUONG": "24.0073.1658",
+    "TEN_DVKT_GIA": "Helicobacter pylori Ag test nhanh",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "171100",
+    "NHOM": "1"
+  },
+  {
+    "STT": "34",
+    "MA_TUONG_DUONG": "24.0243.1671",
+    "TEN_DVKT_GIA": "Influenza virus A, B test nhanh",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "185700",
+    "NHOM": "1"
+  },
+  {
+    "STT": "35",
+    "MA_TUONG_DUONG": "22.0143.1303",
+    "TEN_DVKT_GIA": "Máu lắng (bằng máy tự động)",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "37300",
+    "NHOM": "1"
+  },
+  {
+    "STT": "36",
+    "MA_TUONG_DUONG": "22.0142.1304",
+    "TEN_DVKT_GIA": "Máu lắng (bằng phương pháp thủ công)",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "24800",
+    "NHOM": "1"
+  },
+  {
+    "STT": "37",
+    "MA_TUONG_DUONG": "23.0244.1544",
+    "TEN_DVKT_GIA": "Phản ứng CRP",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "22400",
+    "NHOM": "1"
+  },
+  {
+    "STT": "38",
+    "MA_TUONG_DUONG": "24.0249.1697",
+    "TEN_DVKT_GIA": "Rotavirus test nhanh",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "194700",
+    "NHOM": "1"
+  },
+  {
+    "STT": "39",
+    "MA_TUONG_DUONG": "24.0254.1701",
+    "TEN_DVKT_GIA": "Rubella virus Ab test nhanh",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "163600",
+    "NHOM": "1"
+  },
+  {
+    "STT": "40",
+    "MA_TUONG_DUONG": "22.0019.1348",
+    "TEN_DVKT_GIA": "Thời gian máu chảy phương pháp Duke",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "13600",
+    "NHOM": "1"
+  },
+  {
+    "STT": "41",
+    "MA_TUONG_DUONG": "22.0020.1347",
+    "TEN_DVKT_GIA": "Thời gian máu chảy phương pháp Ivy",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "52100",
+    "NHOM": "1"
+  },
+  {
+    "STT": "42",
+    "MA_TUONG_DUONG": "23.0206.1596",
+    "TEN_DVKT_GIA": "Tổng phân tích nước tiểu (Bằng máy tự động)",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "28600",
+    "NHOM": "1"
+  },
+  {
+    "STT": "43",
+    "MA_TUONG_DUONG": "22.0120.1370",
+    "TEN_DVKT_GIA": "Tổng phân tích tế bào máu ngoại vi (bằng máy đếm tổng trở)",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "43500",
+    "NHOM": "1"
+  },
+  {
+    "STT": "44",
+    "MA_TUONG_DUONG": "24.0268.1674",
+    "TEN_DVKT_GIA": "Trứng giun soi tập trung",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "45500",
+    "NHOM": "1"
+  },
+  {
+    "STT": "45",
+    "MA_TUONG_DUONG": "24.0267.1674",
+    "TEN_DVKT_GIA": "Trứng giun, sán soi tươi",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "45500",
+    "NHOM": "1"
+  },
+  {
+    "STT": "46",
+    "MA_TUONG_DUONG": "24.0002.1720",
+    "TEN_DVKT_GIA": "Vi khuẩn test nhanh",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "261000",
+    "NHOM": "1"
+  },
+  {
+    "STT": "47",
+    "MA_TUONG_DUONG": "24.0320.1720",
+    "TEN_DVKT_GIA": "Vi nấm test nhanh",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "261000",
+    "NHOM": "1"
+  },
+  {
+    "STT": "48",
+    "MA_TUONG_DUONG": "24.0108.1720",
+    "TEN_DVKT_GIA": "Virus test nhanh",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "261000",
+    "NHOM": "1"
+  },
+  {
+    "STT": "49",
+    "MA_TUONG_DUONG": "22.0149.1594",
+    "TEN_DVKT_GIA": "Xét nghiệm tế bào cặn nước tiểu (bằng phương pháp thủ công)",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "44800",
+    "NHOM": "1"
+  },
+  {
+    "STT": "50",
+    "MA_TUONG_DUONG": "22.0150.1594",
+    "TEN_DVKT_GIA": "Xét nghiệm tế bào trong nước tiểu (bằng máy tự động)",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "44800",
+    "NHOM": "1"
+  },
+  {
+    "STT": "51",
+    "MA_TUONG_DUONG": "16.0057.1032",
+    "TEN_DVKT_GIA": "Chụp tủy bằng Hydroxit canxi",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "308000",
+    "NHOM": "2"
+  },
+  {
+    "STT": "52",
+    "MA_TUONG_DUONG": "16.0056.1032",
+    "TEN_DVKT_GIA": "Chụp tủy bằng MTA",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "308000",
+    "NHOM": "2"
+  },
+  {
+    "STT": "53",
+    "MA_TUONG_DUONG": "18.0072.0028",
+    "TEN_DVKT_GIA": "Chụp X-quang Blondeau [số hóa 1 phim]",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "73300",
+    "NHOM": "2"
+  },
+  {
+    "STT": "54",
+    "MA_TUONG_DUONG": "18.0072.0029",
+    "TEN_DVKT_GIA": "Chụp X-quang Blondeau [số hóa 2 phim]",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "105300",
+    "NHOM": "2"
+  },
+  {
+    "STT": "55",
+    "MA_TUONG_DUONG": "18.0125.0028",
+    "TEN_DVKT_GIA": "Chụp X-quang bụng không chuẩn bị thẳng hoặc nghiêng [số hóa 1 phim]",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "73300",
+    "NHOM": "2"
+  },
+  {
+    "STT": "56",
+    "MA_TUONG_DUONG": "18.0125.0029",
+    "TEN_DVKT_GIA": "Chụp X-quang bụng không chuẩn bị thẳng hoặc nghiêng [số hóa 2 phim]",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "105300",
+    "NHOM": "2"
+  },
+  {
+    "STT": "57",
+    "MA_TUONG_DUONG": "18.0077.0010",
+    "TEN_DVKT_GIA": "Chụp X-quang Chausse III [≤ 24x30 cm, 1 tư thế]",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "58300",
+    "NHOM": "2"
+  },
+  {
+    "STT": "58",
+    "MA_TUONG_DUONG": "18.0087.0028",
+    "TEN_DVKT_GIA": "Chụp X-quang cột sống cổ chếch hai bên [số hóa 1 phim]",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "73300",
+    "NHOM": "2"
+  },
+  {
+    "STT": "59",
+    "MA_TUONG_DUONG": "18.0087.0029",
+    "TEN_DVKT_GIA": "Chụp X-quang cột sống cổ chếch hai bên [số hóa 2 phim]",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "105300",
+    "NHOM": "2"
+  },
+  {
+    "STT": "60",
+    "MA_TUONG_DUONG": "18.0086.0028",
+    "TEN_DVKT_GIA": "Chụp X-quang cột sống cổ thẳng nghiêng [số hóa 1 phim]",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "73300",
+    "NHOM": "2"
+  },
+  {
+    "STT": "61",
+    "MA_TUONG_DUONG": "18.0086.0029",
+    "TEN_DVKT_GIA": "Chụp X-quang cột sống cổ thẳng nghiêng [số hóa 2 phim]",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "105300",
+    "NHOM": "2"
+  },
+  {
+    "STT": "62",
+    "MA_TUONG_DUONG": "18.0096.0028",
+    "TEN_DVKT_GIA": "Chụp X-quang cột sống cùng cụt thẳng nghiêng [số hóa 1 phim]",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "73300",
+    "NHOM": "2"
+  },
+  {
+    "STT": "63",
+    "MA_TUONG_DUONG": "18.0096.0029",
+    "TEN_DVKT_GIA": "Chụp X-quang cột sống cùng cụt thẳng nghiêng [số hóa 2 phim]",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "105300",
+    "NHOM": "2"
+  },
+  {
+    "STT": "64",
+    "MA_TUONG_DUONG": "18.0090.0028",
+    "TEN_DVKT_GIA": "Chụp X-quang cột sống ngực thẳng nghiêng hoặc chếch [số hóa 1 phim]",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "73300",
+    "NHOM": "2"
+  },
+  {
+    "STT": "65",
+    "MA_TUONG_DUONG": "18.0090.0029",
+    "TEN_DVKT_GIA": "Chụp X-quang cột sống ngực thẳng nghiêng hoặc chếch [số hóa 2 phim]",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "105300",
+    "NHOM": "2"
+  },
+  {
+    "STT": "66",
+    "MA_TUONG_DUONG": "18.0092.0028",
+    "TEN_DVKT_GIA": "Chụp X-quang cột sống thắt lưng chếch hai bên [số hóa 1 phim]",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "73300",
+    "NHOM": "2"
+  },
+  {
+    "STT": "67",
+    "MA_TUONG_DUONG": "18.0092.0029",
+    "TEN_DVKT_GIA": "Chụp X-quang cột sống thắt lưng chếch hai bên [số hóa 2 phim]",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "105300",
+    "NHOM": "2"
+  },
+  {
+    "STT": "68",
+    "MA_TUONG_DUONG": "18.0091.0028",
+    "TEN_DVKT_GIA": "Chụp X-quang cột sống thắt lưng thẳng nghiêng [số hóa 1 phim]",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "73300",
+    "NHOM": "2"
+  },
+  {
+    "STT": "69",
+    "MA_TUONG_DUONG": "18.0091.0029",
+    "TEN_DVKT_GIA": "Chụp X-quang cột sống thắt lưng thẳng nghiêng [số hóa 2 phim]",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "105300",
+    "NHOM": "2"
+  },
+  {
+    "STT": "70",
+    "MA_TUONG_DUONG": "18.0132.0036",
+    "TEN_DVKT_GIA": "Chụp X-quang đại tràng [có thuốc cản quang, số hóa]",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "304800",
+    "NHOM": "2"
+  },
+  {
+    "STT": "71",
+    "MA_TUONG_DUONG": "18.0132.0018",
+    "TEN_DVKT_GIA": "Chụp X-quang đại tràng [có thuốc cản quang]",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "164300",
+    "NHOM": "2"
+  },
+  {
+    "STT": "72",
+    "MA_TUONG_DUONG": "18.0074.0028",
+    "TEN_DVKT_GIA": "Chụp X-quang hàm chếch một bên [số hóa 1 phim]",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "73300",
+    "NHOM": "2"
+  },
+  {
+    "STT": "73",
+    "MA_TUONG_DUONG": "18.0073.0028",
+    "TEN_DVKT_GIA": "Chụp X-quang Hirtz [số hóa 1 phim]",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "73300",
+    "NHOM": "2"
+  },
+  {
+    "STT": "74",
+    "MA_TUONG_DUONG": "18.0076.0028",
+    "TEN_DVKT_GIA": "Chụp X-quang hố yên thẳng hoặc nghiêng  [số hóa 1 phim]",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "73300",
+    "NHOM": "2"
+  },
+  {
+    "STT": "75",
+    "MA_TUONG_DUONG": "18.0071.0029",
+    "TEN_DVKT_GIA": "Chụp X-quang hốc mắt thẳng nghiêng  [số hóa 2 phim]",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "105300",
+    "NHOM": "2"
+  },
+  {
+    "STT": "76",
+    "MA_TUONG_DUONG": "18.0097.0030",
+    "TEN_DVKT_GIA": "Chụp X-quang khớp cùng chậu thẳng chếch hai bên [số hóa 3 phim]",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "130300",
+    "NHOM": "2"
+  },
+  {
+    "STT": "77",
+    "MA_TUONG_DUONG": "18.0112.0028",
+    "TEN_DVKT_GIA": "Chụp X-quang khớp gối thẳng, nghiêng hoặc chếch [số hóa 1 phim]",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "73300",
+    "NHOM": "2"
+  },
+  {
+    "STT": "78",
+    "MA_TUONG_DUONG": "18.0112.0029",
+    "TEN_DVKT_GIA": "Chụp X-quang khớp gối thẳng, nghiêng hoặc chếch [số hóa 2 phim]",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "105300",
+    "NHOM": "2"
+  },
+  {
+    "STT": "79",
+    "MA_TUONG_DUONG": "18.0109.0028",
+    "TEN_DVKT_GIA": "Chụp X-quang khớp háng thẳng hai bên [số hóa 1 phim]",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "73300",
+    "NHOM": "2"
+  },
+  {
+    "STT": "80",
+    "MA_TUONG_DUONG": "18.0105.0028",
+    "TEN_DVKT_GIA": "Chụp X-quang khớp khuỷu gập (Jones hoặc Coyle) [số hóa 1 phim]",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "73300",
+    "NHOM": "2"
+  },
+  {
+    "STT": "81",
+    "MA_TUONG_DUONG": "18.0104.0028",
+    "TEN_DVKT_GIA": "Chụp X-quang khớp khuỷu thẳng, nghiêng hoặc chếch [số hóa 1 phim]",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "73300",
+    "NHOM": "2"
+  },
+  {
+    "STT": "82",
+    "MA_TUONG_DUONG": "18.0104.0029",
+    "TEN_DVKT_GIA": "Chụp X-quang khớp khuỷu thẳng, nghiêng hoặc chếch [số hóa 2 phim]",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "105300",
+    "NHOM": "2"
+  },
+  {
+    "STT": "83",
+    "MA_TUONG_DUONG": "18.0080.0010",
+    "TEN_DVKT_GIA": "Chụp X-quang khớp thái dương hàm [≤ 24x30 cm, 1 tư thế]",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "58300",
+    "NHOM": "2"
+  },
+  {
+    "STT": "84",
+    "MA_TUONG_DUONG": "18.0080.0028",
+    "TEN_DVKT_GIA": "Chụp X-quang khớp thái dương hàm [số hóa 1 phim]",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "73300",
+    "NHOM": "2"
+  },
+  {
+    "STT": "85",
+    "MA_TUONG_DUONG": "18.0100.0028",
+    "TEN_DVKT_GIA": "Chụp X-quang khớp vai thẳng [số hóa 1 phim]",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "73300",
+    "NHOM": "2"
+  },
+  {
+    "STT": "86",
+    "MA_TUONG_DUONG": "18.0100.0029",
+    "TEN_DVKT_GIA": "Chụp X-quang khớp vai thẳng [số hóa 2 phim]",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "105300",
+    "NHOM": "2"
+  },
+  {
+    "STT": "87",
+    "MA_TUONG_DUONG": "18.0098.0028",
+    "TEN_DVKT_GIA": "Chụp X-quang khung chậu thẳng [số hóa 1 phim]",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "73300",
+    "NHOM": "2"
+  },
+  {
+    "STT": "88",
+    "MA_TUONG_DUONG": "18.0068.0028",
+    "TEN_DVKT_GIA": "Chụp X-quang mặt thẳng nghiêng [số hóa 1 phim]",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "73300",
+    "NHOM": "2"
+  },
+  {
+    "STT": "89",
+    "MA_TUONG_DUONG": "18.0068.0029",
+    "TEN_DVKT_GIA": "Chụp X-quang mặt thẳng nghiêng [số hóa 2 phim]",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "105300",
+    "NHOM": "2"
+  },
+  {
+    "STT": "90",
+    "MA_TUONG_DUONG": "18.0069.0028",
+    "TEN_DVKT_GIA": "Chụp X-quang mặt thấp hoặc mặt cao [số hóa 1 phim]",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "73300",
+    "NHOM": "2"
+  },
+  {
+    "STT": "91",
+    "MA_TUONG_DUONG": "18.0085.0028",
+    "TEN_DVKT_GIA": "Chụp X-quang mỏm trâm [số hóa 1 phim]",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "73300",
+    "NHOM": "2"
+  },
+  {
+    "STT": "92",
+    "MA_TUONG_DUONG": "18.0120.0028",
+    "TEN_DVKT_GIA": "Chụp X-quang ngực nghiêng hoặc chếch mỗi bên [số hóa 1 phim]",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "73300",
+    "NHOM": "2"
+  },
+  {
+    "STT": "93",
+    "MA_TUONG_DUONG": "18.0119.0028",
+    "TEN_DVKT_GIA": "Chụp X-quang ngực thẳng [số hóa 1 phim]",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "73300",
+    "NHOM": "2"
+  },
+  {
+    "STT": "94",
+    "MA_TUONG_DUONG": "18.0119.0029",
+    "TEN_DVKT_GIA": "Chụp X-quang ngực thẳng [số hóa 2 phim]",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "105300",
+    "NHOM": "2"
+  },
+  {
+    "STT": "95",
+    "MA_TUONG_DUONG": "18.0078.0028",
+    "TEN_DVKT_GIA": "Chụp X-quang Schuller [số hóa 1 phim]",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "73300",
+    "NHOM": "2"
+  },
+  {
+    "STT": "96",
+    "MA_TUONG_DUONG": "18.0067.0028",
+    "TEN_DVKT_GIA": "Chụp X-quang sọ thẳng/nghiêng [số hóa 1 phim]",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "73300",
+    "NHOM": "2"
+  },
+  {
+    "STT": "97",
+    "MA_TUONG_DUONG": "18.0067.0029",
+    "TEN_DVKT_GIA": "Chụp X-quang sọ thẳng/nghiêng [số hóa 2 phim]",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "105300",
+    "NHOM": "2"
+  },
+  {
+    "STT": "98",
+    "MA_TUONG_DUONG": "18.0070.0028",
+    "TEN_DVKT_GIA": "Chụp X-quang sọ tiếp tuyến [số hóa 1 phim]",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "73300",
+    "NHOM": "2"
+  },
+  {
+    "STT": "99",
+    "MA_TUONG_DUONG": "18.0079.0028",
+    "TEN_DVKT_GIA": "Chụp X-quang Stenvers [số hóa 1 phim]",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "73300",
+    "NHOM": "2"
+  },
+  {
+    "STT": "100",
+    "MA_TUONG_DUONG": "18.0130.0035",
+    "TEN_DVKT_GIA": "Chụp X-quang thực quản dạ dày [có thuốc cản quang, số hóa]",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "264800",
+    "NHOM": "2"
+  },
+  {
+    "STT": "101",
+    "MA_TUONG_DUONG": "18.0130.0017",
+    "TEN_DVKT_GIA": "Chụp X-quang thực quản dạ dày [có thuốc cản quang]",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "124300",
+    "NHOM": "2"
+  },
+  {
+    "STT": "102",
+    "MA_TUONG_DUONG": "18.0102.0028",
+    "TEN_DVKT_GIA": "Chụp X-quang xương bả vai thẳng nghiêng [số hóa 1 phim]",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "73300",
+    "NHOM": "2"
+  },
+  {
+    "STT": "103",
+    "MA_TUONG_DUONG": "18.0102.0029",
+    "TEN_DVKT_GIA": "Chụp X-quang xương bả vai thẳng nghiêng [số hóa 2 phim]",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "105300",
+    "NHOM": "2"
+  },
+  {
+    "STT": "104",
+    "MA_TUONG_DUONG": "18.0108.0028",
+    "TEN_DVKT_GIA": "Chụp X-quang xương bàn ngón tay thẳng, nghiêng hoặc chếch [số hóa 1 phim]",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "73300",
+    "NHOM": "2"
+  },
+  {
+    "STT": "105",
+    "MA_TUONG_DUONG": "18.0108.0029",
+    "TEN_DVKT_GIA": "Chụp X-quang xương bàn ngón tay thẳng, nghiêng hoặc chếch [số hóa 2 phim]",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "105300",
+    "NHOM": "2"
+  },
+  {
+    "STT": "106",
+    "MA_TUONG_DUONG": "18.0116.0028",
+    "TEN_DVKT_GIA": "Chụp X-quang xương bàn, ngón chân thẳng, nghiêng hoặc chếch [số hóa 1 phim]",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "73300",
+    "NHOM": "2"
+  },
+  {
+    "STT": "107",
+    "MA_TUONG_DUONG": "18.0116.0029",
+    "TEN_DVKT_GIA": "Chụp X-quang xương bàn, ngón chân thẳng, nghiêng hoặc chếch [số hóa 2 phim]",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "105300",
+    "NHOM": "2"
+  },
+  {
+    "STT": "108",
+    "MA_TUONG_DUONG": "18.0114.0028",
+    "TEN_DVKT_GIA": "Chụp X-quang xương cẳng chân thẳng nghiêng [số hóa 1 phim]",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "73300",
+    "NHOM": "2"
+  },
+  {
+    "STT": "109",
+    "MA_TUONG_DUONG": "18.0114.0029",
+    "TEN_DVKT_GIA": "Chụp X-quang xương cẳng chân thẳng nghiêng [số hóa 2 phim]",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "105300",
+    "NHOM": "2"
+  },
+  {
+    "STT": "110",
+    "MA_TUONG_DUONG": "18.0106.0028",
+    "TEN_DVKT_GIA": "Chụp X-quang xương cẳng tay thẳng nghiêng [số hóa 1 phim]",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "73300",
+    "NHOM": "2"
+  },
+  {
+    "STT": "111",
+    "MA_TUONG_DUONG": "18.0106.0029",
+    "TEN_DVKT_GIA": "Chụp X-quang xương cẳng tay thẳng nghiêng [số hóa 2 phim]",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "105300",
+    "NHOM": "2"
+  },
+  {
+    "STT": "112",
+    "MA_TUONG_DUONG": "18.0103.0028",
+    "TEN_DVKT_GIA": "Chụp X-quang xương cánh tay thẳng nghiêng [số hóa 1 phim]",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "73300",
+    "NHOM": "2"
+  },
+  {
+    "STT": "113",
+    "MA_TUONG_DUONG": "18.0103.0029",
+    "TEN_DVKT_GIA": "Chụp X-quang xương cánh tay thẳng nghiêng [số hóa 2 phim]",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "105300",
+    "NHOM": "2"
+  },
+  {
+    "STT": "114",
+    "MA_TUONG_DUONG": "18.0115.0028",
+    "TEN_DVKT_GIA": "Chụp X-quang xương cổ chân thẳng, nghiêng hoặc chếch [số hóa 1 phim]",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "73300",
+    "NHOM": "2"
+  },
+  {
+    "STT": "115",
+    "MA_TUONG_DUONG": "18.0115.0029",
+    "TEN_DVKT_GIA": "Chụp X-quang xương cổ chân thẳng, nghiêng hoặc chếch [số hóa 2 phim]",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "105300",
+    "NHOM": "2"
+  },
+  {
+    "STT": "116",
+    "MA_TUONG_DUONG": "18.0107.0028",
+    "TEN_DVKT_GIA": "Chụp X-quang xương cổ tay thẳng, nghiêng hoặc chếch [số hóa 1 phim]",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "73300",
+    "NHOM": "2"
+  },
+  {
+    "STT": "117",
+    "MA_TUONG_DUONG": "18.0107.0029",
+    "TEN_DVKT_GIA": "Chụp X-quang xương cổ tay thẳng, nghiêng hoặc chếch [số hóa 2 phim]",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "105300",
+    "NHOM": "2"
+  },
+  {
+    "STT": "118",
+    "MA_TUONG_DUONG": "18.0099.0028",
+    "TEN_DVKT_GIA": "Chụp X-quang xương đòn thẳng hoặc chếch [số hóa 1 phim]",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "73300",
+    "NHOM": "2"
+  },
+  {
+    "STT": "119",
+    "MA_TUONG_DUONG": "18.0111.0028",
+    "TEN_DVKT_GIA": "Chụp X-quang xương đùi thẳng nghiêng [số hóa 1 phim]",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "73300",
+    "NHOM": "2"
+  },
+  {
+    "STT": "120",
+    "MA_TUONG_DUONG": "18.0111.0029",
+    "TEN_DVKT_GIA": "Chụp X-quang xương đùi thẳng nghiêng [số hóa 2 phim]",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "105300",
+    "NHOM": "2"
+  },
+  {
+    "STT": "121",
+    "MA_TUONG_DUONG": "18.0117.0028",
+    "TEN_DVKT_GIA": "Chụp X-quang xương gót thẳng nghiêng [số hóa 1 phim]",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "73300",
+    "NHOM": "2"
+  },
+  {
+    "STT": "122",
+    "MA_TUONG_DUONG": "18.0117.0029",
+    "TEN_DVKT_GIA": "Chụp X-quang xương gót thẳng nghiêng [số hóa 2 phim]",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "105300",
+    "NHOM": "2"
+  },
+  {
+    "STT": "123",
+    "MA_TUONG_DUONG": "18.0121.0028",
+    "TEN_DVKT_GIA": "Chụp X-quang xương ức thẳng, nghiêng [số hóa 1 phim]",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "73300",
+    "NHOM": "2"
+  },
+  {
+    "STT": "124",
+    "MA_TUONG_DUONG": "18.0121.0029",
+    "TEN_DVKT_GIA": "Chụp X-quang xương ức thẳng, nghiêng [số hóa 2 phim]",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "105300",
+    "NHOM": "2"
+  },
+  {
+    "STT": "125",
+    "MA_TUONG_DUONG": "18.0013.0001",
+    "TEN_DVKT_GIA": "Siêu âm các khối u phổi ngoại vi",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "58600",
+    "NHOM": "2"
+  },
+  {
+    "STT": "126",
+    "MA_TUONG_DUONG": "18.0002.0001",
+    "TEN_DVKT_GIA": "Siêu âm các tuyến nước bọt",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "58600",
+    "NHOM": "2"
+  },
+  {
+    "STT": "127",
+    "MA_TUONG_DUONG": "18.0024.0004",
+    "TEN_DVKT_GIA": "Siêu âm Doppler động mạch thận",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "252300",
+    "NHOM": "2"
+  },
+  {
+    "STT": "128",
+    "MA_TUONG_DUONG": "18.0023.0004",
+    "TEN_DVKT_GIA": "Siêu âm Doppler mạch máu ổ bụng (động mạch chủ, mạc treo tràng trên, thân tạng…)",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "252300",
+    "NHOM": "2"
+  },
+  {
+    "STT": "129",
+    "MA_TUONG_DUONG": "18.0029.0004",
+    "TEN_DVKT_GIA": "Siêu âm doppler tĩnh mạch chậu, chủ dưới",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "252300",
+    "NHOM": "2"
+  },
+  {
+    "STT": "130",
+    "MA_TUONG_DUONG": "18.0032.0069",
+    "TEN_DVKT_GIA": "Siêu âm Doppler tử cung, buồng trứng qua đường bụng",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "89300",
+    "NHOM": "2"
+  },
+  {
+    "STT": "131",
+    "MA_TUONG_DUONG": "18.0010.0069",
+    "TEN_DVKT_GIA": "Siêu âm Doppler u tuyến, hạch vùng cổ",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "89300",
+    "NHOM": "2"
+  },
+  {
+    "STT": "132",
+    "MA_TUONG_DUONG": "18.0004.0001",
+    "TEN_DVKT_GIA": "Siêu âm hạch vùng cổ",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "58600",
+    "NHOM": "2"
+  },
+  {
+    "STT": "133",
+    "MA_TUONG_DUONG": "18.0016.0001",
+    "TEN_DVKT_GIA": "Siêu âm hệ tiết niệu (thận, tuyến thượng thận, bàng quang, tiền liệt tuyến)",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "58600",
+    "NHOM": "2"
+  },
+  {
+    "STT": "134",
+    "MA_TUONG_DUONG": "18.0043.0001",
+    "TEN_DVKT_GIA": "Siêu âm khớp (gối, háng, khuỷu, cổ tay….)",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "58600",
+    "NHOM": "2"
+  },
+  {
+    "STT": "135",
+    "MA_TUONG_DUONG": "02.0373.0001",
+    "TEN_DVKT_GIA": "Siêu âm khớp (một vị trí)",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "58600",
+    "NHOM": "2"
+  },
+  {
+    "STT": "136",
+    "MA_TUONG_DUONG": "03.0070.0001",
+    "TEN_DVKT_GIA": "Siêu âm màng phổi",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "58600",
+    "NHOM": "2"
+  },
+  {
+    "STT": "137",
+    "MA_TUONG_DUONG": "18.0011.0001",
+    "TEN_DVKT_GIA": "Siêu âm màng phổi",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "58600",
+    "NHOM": "2"
+  },
+  {
+    "STT": "138",
+    "MA_TUONG_DUONG": "02.0063.0001",
+    "TEN_DVKT_GIA": "Siêu âm màng phổi cấp cứu",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "58600",
+    "NHOM": "2"
+  },
+  {
+    "STT": "139",
+    "MA_TUONG_DUONG": "01.0092.0001",
+    "TEN_DVKT_GIA": "Siêu âm màng phổi cấp cứu",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "58600",
+    "NHOM": "2"
+  },
+  {
+    "STT": "140",
+    "MA_TUONG_DUONG": "18.0015.0001",
+    "TEN_DVKT_GIA": "Siêu âm ổ bụng (gan mật, tụy, lách, thận, bàng quang)",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "58600",
+    "NHOM": "2"
+  },
+  {
+    "STT": "141",
+    "MA_TUONG_DUONG": "18.0044.0001",
+    "TEN_DVKT_GIA": "Siêu âm phần mềm (da, tổ chức dưới da, cơ….)",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "58600",
+    "NHOM": "2"
+  },
+  {
+    "STT": "142",
+    "MA_TUONG_DUONG": "02.0374.0001",
+    "TEN_DVKT_GIA": "Siêu âm phần mềm (một vị trí)",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "58600",
+    "NHOM": "2"
+  },
+  {
+    "STT": "143",
+    "MA_TUONG_DUONG": "18.0020.0001",
+    "TEN_DVKT_GIA": "Siêu âm thai (thai, nhau thai, nước ối)",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "58600",
+    "NHOM": "2"
+  },
+  {
+    "STT": "144",
+    "MA_TUONG_DUONG": "18.0036.0001",
+    "TEN_DVKT_GIA": "Siêu âm thai nhi trong 3 tháng cuối",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "58600",
+    "NHOM": "2"
+  },
+  {
+    "STT": "145",
+    "MA_TUONG_DUONG": "18.0034.0001",
+    "TEN_DVKT_GIA": "Siêu âm thai nhi trong 3 tháng đầu",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "58600",
+    "NHOM": "2"
+  },
+  {
+    "STT": "146",
+    "MA_TUONG_DUONG": "18.0035.0001",
+    "TEN_DVKT_GIA": "Siêu âm thai nhi trong 3 tháng giữa",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "58600",
+    "NHOM": "2"
+  },
+  {
+    "STT": "147",
+    "MA_TUONG_DUONG": "18.0031.0003",
+    "TEN_DVKT_GIA": "Siêu âm tử cung buồng trứng qua đường âm đạo",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "195600",
+    "NHOM": "2"
+  },
+  {
+    "STT": "148",
+    "MA_TUONG_DUONG": "18.0030.0001",
+    "TEN_DVKT_GIA": "Siêu âm tử cung buồng trứng qua đường bụng",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "58600",
+    "NHOM": "2"
+  },
+  {
+    "STT": "149",
+    "MA_TUONG_DUONG": "18.0018.0001",
+    "TEN_DVKT_GIA": "Siêu âm tử cung phần phụ",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "58600",
+    "NHOM": "2"
+  },
+  {
+    "STT": "150",
+    "MA_TUONG_DUONG": "18.0001.0001",
+    "TEN_DVKT_GIA": "Siêu âm tuyến giáp",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "58600",
+    "NHOM": "2"
+  },
+  {
+    "STT": "151",
+    "MA_TUONG_DUONG": "18.0054.0001",
+    "TEN_DVKT_GIA": "Siêu âm tuyến vú hai bên",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "58600",
+    "NHOM": "2"
+  },
+  {
+    "STT": "152",
+    "MA_TUONG_DUONG": "02.0085.1778",
+    "TEN_DVKT_GIA": "Điện tim thường",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "39900",
+    "NHOM": "3"
+  },
+  {
+    "STT": "153",
+    "MA_TUONG_DUONG": "21.0014.1778",
+    "TEN_DVKT_GIA": "Điện tim thường",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "39900",
+    "NHOM": "3"
+  },
+  {
+    "STT": "154",
+    "MA_TUONG_DUONG": "16.0203.1026",
+    "TEN_DVKT_GIA": "Nhổ răng vĩnh viễn",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "239500",
+    "NHOM": "8"
+  },
+  {
+    "STT": "155",
+    "MA_TUONG_DUONG": "13.0152.0589",
+    "TEN_DVKT_GIA": "Bóc nang tuyến Bartholin",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "1369400",
+    "NHOM": "18"
+  },
+  {
+    "STT": "156",
+    "MA_TUONG_DUONG": "15.0218.0899",
+    "TEN_DVKT_GIA": "Bơm thuốc thanh quản",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "22000",
+    "NHOM": "18"
+  },
+  {
+    "STT": "157",
+    "MA_TUONG_DUONG": "01.0065.0071",
+    "TEN_DVKT_GIA": "Bóp bóng Ambu qua mặt nạ",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "248500",
+    "NHOM": "18"
+  },
+  {
+    "STT": "158",
+    "MA_TUONG_DUONG": "14.0212.0864",
+    "TEN_DVKT_GIA": "Cấp cứu bỏng mắt ban đầu",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "344200",
+    "NHOM": "18"
+  },
+  {
+    "STT": "159",
+    "MA_TUONG_DUONG": "01.0158.0074",
+    "TEN_DVKT_GIA": "Cấp cứu ngừng tuần hoàn hô hấp cơ bản",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "532500",
+    "NHOM": "18"
+  },
+  {
+    "STT": "160",
+    "MA_TUONG_DUONG": "03.1703.0075",
+    "TEN_DVKT_GIA": "Cắt chỉ khâu da",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "40300",
+    "NHOM": "18"
+  },
+  {
+    "STT": "161",
+    "MA_TUONG_DUONG": "13.0053.0594",
+    "TEN_DVKT_GIA": "Cắt chỉ khâu vòng cổ tử cung",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "139000",
+    "NHOM": "18"
+  },
+  {
+    "STT": "162",
+    "MA_TUONG_DUONG": "15.0302.0075",
+    "TEN_DVKT_GIA": "Cắt chỉ sau phẫu thuật",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "40300",
+    "NHOM": "18"
+  },
+  {
+    "STT": "163",
+    "MA_TUONG_DUONG": "03.3821.0216",
+    "TEN_DVKT_GIA": "Cắt lọc tổ chức hoại tử hoặc cắt lọc vết thương đơn giản",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "194700",
+    "NHOM": "18"
+  },
+  {
+    "STT": "164",
+    "MA_TUONG_DUONG": "16.0214.1007",
+    "TEN_DVKT_GIA": "Cắt lợi trùm răng khôn hàm dưới",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "178900",
+    "NHOM": "18"
+  },
+  {
+    "STT": "165",
+    "MA_TUONG_DUONG": "03.2456.1044",
+    "TEN_DVKT_GIA": "Cắt u da đầu lành, đường kính dưới 5 cm",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "771000",
+    "NHOM": "18"
+  },
+  {
+    "STT": "166",
+    "MA_TUONG_DUONG": "12.0320.1190",
+    "TEN_DVKT_GIA": "Cắt u lành phần mềm đường kính dưới 10 cm",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "2140700",
+    "NHOM": "18"
+  },
+  {
+    "STT": "167",
+    "MA_TUONG_DUONG": "03.2458.1044",
+    "TEN_DVKT_GIA": "Cắt u máu dưới da đầu có đường kính dưới 5 cm",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "771000",
+    "NHOM": "18"
+  },
+  {
+    "STT": "168",
+    "MA_TUONG_DUONG": "03.2442.1045",
+    "TEN_DVKT_GIA": "Cắt u máu dưới da đầu có đường kính trên 10 cm",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "1208800",
+    "NHOM": "18"
+  },
+  {
+    "STT": "169",
+    "MA_TUONG_DUONG": "12.0313.1190",
+    "TEN_DVKT_GIA": "Cắt u máu khu trú, đường kính dưới 5 cm",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "2140700",
+    "NHOM": "18"
+  },
+  {
+    "STT": "170",
+    "MA_TUONG_DUONG": "08.0242.0227",
+    "TEN_DVKT_GIA": "Cấy chỉ điều trị đau đầu, đau nửa đầu",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "156400",
+    "NHOM": "18"
+  },
+  {
+    "STT": "171",
+    "MA_TUONG_DUONG": "08.0267.0227",
+    "TEN_DVKT_GIA": "Cấy chỉ điều trị đau do thoái hóa khớp",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "156400",
+    "NHOM": "18"
+  },
+  {
+    "STT": "172",
+    "MA_TUONG_DUONG": "08.0268.0227",
+    "TEN_DVKT_GIA": "Cấy chỉ điều trị đau lưng",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "156400",
+    "NHOM": "18"
+  },
+  {
+    "STT": "173",
+    "MA_TUONG_DUONG": "08.0275.0227",
+    "TEN_DVKT_GIA": "Cấy chỉ điều trị di tinh",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "156400",
+    "NHOM": "18"
+  },
+  {
+    "STT": "174",
+    "MA_TUONG_DUONG": "08.0235.0227",
+    "TEN_DVKT_GIA": "Cấy chỉ điều trị giảm thính lực",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "156400",
+    "NHOM": "18"
+  },
+  {
+    "STT": "175",
+    "MA_TUONG_DUONG": "08.0247.0227",
+    "TEN_DVKT_GIA": "Cấy chỉ điều trị hen phế quản",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "156400",
+    "NHOM": "18"
+  },
+  {
+    "STT": "176",
+    "MA_TUONG_DUONG": "08.0241.0227",
+    "TEN_DVKT_GIA": "Cấy chỉ điều trị hội chứng thắt lưng hông",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "156400",
+    "NHOM": "18"
+  },
+  {
+    "STT": "177",
+    "MA_TUONG_DUONG": "08.0245.0227",
+    "TEN_DVKT_GIA": "Cấy chỉ điều trị hội chứng tiền đình",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "156400",
+    "NHOM": "18"
+  },
+  {
+    "STT": "178",
+    "MA_TUONG_DUONG": "08.0246.0227",
+    "TEN_DVKT_GIA": "Cấy chỉ điều trị hội chứng vai gáy",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "156400",
+    "NHOM": "18"
+  },
+  {
+    "STT": "179",
+    "MA_TUONG_DUONG": "08.0248.0227",
+    "TEN_DVKT_GIA": "Cấy chỉ điều trị huyết áp thấp",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "156400",
+    "NHOM": "18"
+  },
+  {
+    "STT": "180",
+    "MA_TUONG_DUONG": "08.0256.0227",
+    "TEN_DVKT_GIA": "Cấy chỉ điều trị khàn tiếng",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "156400",
+    "NHOM": "18"
+  },
+  {
+    "STT": "181",
+    "MA_TUONG_DUONG": "08.0258.0227",
+    "TEN_DVKT_GIA": "Cấy chỉ điều trị liệt chi dưới",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "156400",
+    "NHOM": "18"
+  },
+  {
+    "STT": "182",
+    "MA_TUONG_DUONG": "08.0257.0227",
+    "TEN_DVKT_GIA": "Cấy chỉ điều trị liệt chi trên",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "156400",
+    "NHOM": "18"
+  },
+  {
+    "STT": "183",
+    "MA_TUONG_DUONG": "08.0249.0227",
+    "TEN_DVKT_GIA": "Cấy chỉ điều trị liệt dây thần kinh VII ngoại biên",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "156400",
+    "NHOM": "18"
+  },
+  {
+    "STT": "184",
+    "MA_TUONG_DUONG": "08.0276.0227",
+    "TEN_DVKT_GIA": "Cấy chỉ điều trị liệt dương",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "156400",
+    "NHOM": "18"
+  },
+  {
+    "STT": "185",
+    "MA_TUONG_DUONG": "08.0228.0227",
+    "TEN_DVKT_GIA": "Cấy chỉ điều trị liệt nửa người do tai biến mạch máu não",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "156400",
+    "NHOM": "18"
+  },
+  {
+    "STT": "186",
+    "MA_TUONG_DUONG": "08.0243.0227",
+    "TEN_DVKT_GIA": "Cấy chỉ điều trị mất ngủ",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "156400",
+    "NHOM": "18"
+  },
+  {
+    "STT": "187",
+    "MA_TUONG_DUONG": "08.0244.0227",
+    "TEN_DVKT_GIA": "Cấy chỉ điều trị nấc",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "156400",
+    "NHOM": "18"
+  },
+  {
+    "STT": "188",
+    "MA_TUONG_DUONG": "08.0277.0227",
+    "TEN_DVKT_GIA": "Cấy chỉ điều trị rối loạn tiểu tiện không tự chủ",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "156400",
+    "NHOM": "18"
+  },
+  {
+    "STT": "189",
+    "MA_TUONG_DUONG": "08.0229.0227",
+    "TEN_DVKT_GIA": "Cấy chỉ điều trị tâm căn suy nhược",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "156400",
+    "NHOM": "18"
+  },
+  {
+    "STT": "190",
+    "MA_TUONG_DUONG": "08.0252.0227",
+    "TEN_DVKT_GIA": "Cấy chỉ điều trị thất vận ngôn",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "156400",
+    "NHOM": "18"
+  },
+  {
+    "STT": "191",
+    "MA_TUONG_DUONG": "03.0425.0227",
+    "TEN_DVKT_GIA": "Cấy chỉ điều trị thiếu máu não mạn tính",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "156400",
+    "NHOM": "18"
+  },
+  {
+    "STT": "192",
+    "MA_TUONG_DUONG": "08.0230.0227",
+    "TEN_DVKT_GIA": "Cấy chỉ điều trị viêm mũi dị ứng",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "156400",
+    "NHOM": "18"
+  },
+  {
+    "STT": "193",
+    "MA_TUONG_DUONG": "08.0266.0227",
+    "TEN_DVKT_GIA": "Cấy chỉ điều trị viêm quanh khớp vai",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "156400",
+    "NHOM": "18"
+  },
+  {
+    "STT": "194",
+    "MA_TUONG_DUONG": "16.0220.1042",
+    "TEN_DVKT_GIA": "Cấy lại răng bị bật khỏi ổ răng",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "601000",
+    "NHOM": "18"
+  },
+  {
+    "STT": "195",
+    "MA_TUONG_DUONG": "08.0010.0224",
+    "TEN_DVKT_GIA": "Chích lể",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "76300",
+    "NHOM": "18"
+  },
+  {
+    "STT": "196",
+    "MA_TUONG_DUONG": "13.0160.0606",
+    "TEN_DVKT_GIA": "Chọc dò túi cùng Douglas",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "312500",
+    "NHOM": "18"
+  },
+  {
+    "STT": "197",
+    "MA_TUONG_DUONG": "15.0056.0882",
+    "TEN_DVKT_GIA": "Chọc hút dịch vành tai",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "64300",
+    "NHOM": "18"
+  },
+  {
+    "STT": "198",
+    "MA_TUONG_DUONG": "08.0027.0228",
+    "TEN_DVKT_GIA": "Chườm ngải",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "37000",
+    "NHOM": "18"
+  },
+  {
+    "STT": "199",
+    "MA_TUONG_DUONG": "01.0157.0508",
+    "TEN_DVKT_GIA": "Cố định lồng ngực do chấn thương gãy xương sườn",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "58400",
+    "NHOM": "18"
+  },
+  {
+    "STT": "200",
+    "MA_TUONG_DUONG": "08.0009.0228",
+    "TEN_DVKT_GIA": "Cứu",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "37000",
+    "NHOM": "18"
+  },
+  {
+    "STT": "201",
+    "MA_TUONG_DUONG": "08.0476.0228",
+    "TEN_DVKT_GIA": "Cứu điều trị cảm cúm thể hàn",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "37000",
+    "NHOM": "18"
+  },
+  {
+    "STT": "202",
+    "MA_TUONG_DUONG": "08.0470.0228",
+    "TEN_DVKT_GIA": "Cứu điều trị đau bụng kinh thể hàn",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "37000",
+    "NHOM": "18"
+  },
+  {
+    "STT": "203",
+    "MA_TUONG_DUONG": "08.0452.0228",
+    "TEN_DVKT_GIA": "Cứu điều trị đau đầu, đau nửa đầu thể hàn",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "37000",
+    "NHOM": "18"
+  },
+  {
+    "STT": "204",
+    "MA_TUONG_DUONG": "08.0473.0228",
+    "TEN_DVKT_GIA": "Cứu điều trị đau lưng thể hàn",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "37000",
+    "NHOM": "18"
+  },
+  {
+    "STT": "205",
+    "MA_TUONG_DUONG": "08.0461.0228",
+    "TEN_DVKT_GIA": "Cứu điều trị đau vai gáy cấp thể hàn",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "37000",
+    "NHOM": "18"
+  },
+  {
+    "STT": "206",
+    "MA_TUONG_DUONG": "08.0451.0228",
+    "TEN_DVKT_GIA": "Cứu điều trị hội chứng thắt lưng- hông thể phong hàn",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "37000",
+    "NHOM": "18"
+  },
+  {
+    "STT": "207",
+    "MA_TUONG_DUONG": "08.0458.0228",
+    "TEN_DVKT_GIA": "Cứu điều trị liệt chi dưới thể hàn",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "37000",
+    "NHOM": "18"
+  },
+  {
+    "STT": "208",
+    "MA_TUONG_DUONG": "03.0678.0228",
+    "TEN_DVKT_GIA": "Cứu điều trị liệt chi trên thể hàn",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "37000",
+    "NHOM": "18"
+  },
+  {
+    "STT": "209",
+    "MA_TUONG_DUONG": "08.0460.0228",
+    "TEN_DVKT_GIA": "Cứu điều trị liệt dây thần kinh số VII ngoại biên thể hàn",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "37000",
+    "NHOM": "18"
+  },
+  {
+    "STT": "210",
+    "MA_TUONG_DUONG": "03.0680.0228",
+    "TEN_DVKT_GIA": "Cứu điều trị liệt nửa người thể hàn",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "37000",
+    "NHOM": "18"
+  },
+  {
+    "STT": "211",
+    "MA_TUONG_DUONG": "08.0453.0228",
+    "TEN_DVKT_GIA": "Cứu điều trị nấc thể hàn",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "37000",
+    "NHOM": "18"
+  },
+  {
+    "STT": "212",
+    "MA_TUONG_DUONG": "08.0454.0228",
+    "TEN_DVKT_GIA": "Cứu điều trị ngoại cảm phong hàn",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "37000",
+    "NHOM": "18"
+  },
+  {
+    "STT": "213",
+    "MA_TUONG_DUONG": "08.0471.0228",
+    "TEN_DVKT_GIA": "Cứu điều trị rối loạn kinh nguyệt thể hàn",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "37000",
+    "NHOM": "18"
+  },
+  {
+    "STT": "214",
+    "MA_TUONG_DUONG": "03.3399.0600",
+    "TEN_DVKT_GIA": "Dẫn lưu áp xe hậu môn đơn giản",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "873000",
+    "NHOM": "18"
+  },
+  {
+    "STT": "215",
+    "MA_TUONG_DUONG": "10.0356.0436",
+    "TEN_DVKT_GIA": "Dẫn lưu nước tiểu bàng quang",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "1920900",
+    "NHOM": "18"
+  },
+  {
+    "STT": "216",
+    "MA_TUONG_DUONG": "02.0244.0103",
+    "TEN_DVKT_GIA": "Đặt ống thông dạ dày",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "101800",
+    "NHOM": "18"
+  },
+  {
+    "STT": "217",
+    "MA_TUONG_DUONG": "01.0216.0103",
+    "TEN_DVKT_GIA": "Đặt ống thông dạ dày",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "101800",
+    "NHOM": "18"
+  },
+  {
+    "STT": "218",
+    "MA_TUONG_DUONG": "03.0167.0103",
+    "TEN_DVKT_GIA": "Đặt ống thông dạ dày",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "101800",
+    "NHOM": "18"
+  },
+  {
+    "STT": "219",
+    "MA_TUONG_DUONG": "02.0247.0211",
+    "TEN_DVKT_GIA": "Đặt ống thông hậu môn",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "92400",
+    "NHOM": "18"
+  },
+  {
+    "STT": "220",
+    "MA_TUONG_DUONG": "01.0223.0211",
+    "TEN_DVKT_GIA": "Đặt ống thông hậu môn",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "92400",
+    "NHOM": "18"
+  },
+  {
+    "STT": "221",
+    "MA_TUONG_DUONG": "08.0005.2046",
+    "TEN_DVKT_GIA": "Điện châm [kim dài]",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "85300",
+    "NHOM": "18"
+  },
+  {
+    "STT": "222",
+    "MA_TUONG_DUONG": "08.0005.0230",
+    "TEN_DVKT_GIA": "Điện châm [kim ngắn]",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "78300",
+    "NHOM": "18"
+  },
+  {
+    "STT": "223",
+    "MA_TUONG_DUONG": "08.0282.0230",
+    "TEN_DVKT_GIA": "Điện châm điều trị cảm mạo",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "78300",
+    "NHOM": "18"
+  },
+  {
+    "STT": "224",
+    "MA_TUONG_DUONG": "08.0313.0230",
+    "TEN_DVKT_GIA": "Điện châm điều trị đau do thoái hóa khớp",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "78300",
+    "NHOM": "18"
+  },
+  {
+    "STT": "225",
+    "MA_TUONG_DUONG": "08.0319.0230",
+    "TEN_DVKT_GIA": "Điện châm điều trị giảm đau do zona",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "78300",
+    "NHOM": "18"
+  },
+  {
+    "STT": "226",
+    "MA_TUONG_DUONG": "08.0281.0230",
+    "TEN_DVKT_GIA": "Điện châm điều trị hội chứng stress",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "78300",
+    "NHOM": "18"
+  },
+  {
+    "STT": "227",
+    "MA_TUONG_DUONG": "08.0278.0230",
+    "TEN_DVKT_GIA": "Điện châm điều trị hội chứng tiền đình",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "78300",
+    "NHOM": "18"
+  },
+  {
+    "STT": "228",
+    "MA_TUONG_DUONG": "08.0279.0230",
+    "TEN_DVKT_GIA": "Điện châm điều trị huyết áp thấp",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "78300",
+    "NHOM": "18"
+  },
+  {
+    "STT": "229",
+    "MA_TUONG_DUONG": "03.0462.0230",
+    "TEN_DVKT_GIA": "Điện châm điều trị liệt chi trên",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "78300",
+    "NHOM": "18"
+  },
+  {
+    "STT": "230",
+    "MA_TUONG_DUONG": "08.0316.0230",
+    "TEN_DVKT_GIA": "Điện châm điều trị liệt do tổn thương đám rối dây thần kinh",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "78300",
+    "NHOM": "18"
+  },
+  {
+    "STT": "231",
+    "MA_TUONG_DUONG": "08.0320.0230",
+    "TEN_DVKT_GIA": "Điện châm điều trị liệt do viêm đa rễ, đa dây thần kinh",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "78300",
+    "NHOM": "18"
+  },
+  {
+    "STT": "232",
+    "MA_TUONG_DUONG": "08.0296.0230",
+    "TEN_DVKT_GIA": "Điện châm điều trị liệt tứ chi do chấn thương cột sống",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "78300",
+    "NHOM": "18"
+  },
+  {
+    "STT": "233",
+    "MA_TUONG_DUONG": "03.0495.0230",
+    "TEN_DVKT_GIA": "Điện châm điều trị rối loạn cảm giác đầu chi",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "78300",
+    "NHOM": "18"
+  },
+  {
+    "STT": "234",
+    "MA_TUONG_DUONG": "08.0280.0230",
+    "TEN_DVKT_GIA": "Điện châm điều trị thiểu năng tuần hoàn não mạn tính",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "78300",
+    "NHOM": "18"
+  },
+  {
+    "STT": "235",
+    "MA_TUONG_DUONG": "16.0230.1010",
+    "TEN_DVKT_GIA": "Điều trị răng sữa viêm tủy có hồi phục",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "380100",
+    "NHOM": "18"
+  },
+  {
+    "STT": "236",
+    "MA_TUONG_DUONG": "16.0068.1031",
+    "TEN_DVKT_GIA": "Điều trị sâu ngà răng phục hồi bằng Composite",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "280500",
+    "NHOM": "18"
+  },
+  {
+    "STT": "237",
+    "MA_TUONG_DUONG": "16.0065.1031",
+    "TEN_DVKT_GIA": "Điều trị sâu ngà răng phục hồi bằng Composite có sử dụng laser",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "280500",
+    "NHOM": "18"
+  },
+  {
+    "STT": "238",
+    "MA_TUONG_DUONG": "16.0070.1031",
+    "TEN_DVKT_GIA": "Điều trị sâu ngà răng phục hồi bằng GlassIonomer Cement",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "280500",
+    "NHOM": "18"
+  },
+  {
+    "STT": "239",
+    "MA_TUONG_DUONG": "16.0066.1031",
+    "TEN_DVKT_GIA": "Điều trị sâu ngà răng phục hồi bằng GlassIonomer Cement (GIC) có sử dụng laser",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "280500",
+    "NHOM": "18"
+  },
+  {
+    "STT": "240",
+    "MA_TUONG_DUONG": "16.0067.1031",
+    "TEN_DVKT_GIA": "Điều trị sâu ngà răng phục hồi bằng GlassIonomer Cement (GIC) kết hợp Composite",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "280500",
+    "NHOM": "18"
+  },
+  {
+    "STT": "241",
+    "MA_TUONG_DUONG": "16.0061.1011",
+    "TEN_DVKT_GIA": "Điều trị tủy lại",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "987500",
+    "NHOM": "18"
+  },
+  {
+    "STT": "242",
+    "MA_TUONG_DUONG": "16.0048.1013",
+    "TEN_DVKT_GIA": "Điều trị tủy răng có sử dụng kính hiển vi và hàn kín hệ thống ống tủy bằng Gutta percha nguội  [răng số  6,7 hàm dưới]",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "861000",
+    "NHOM": "18"
+  },
+  {
+    "STT": "243",
+    "MA_TUONG_DUONG": "16.0048.1012",
+    "TEN_DVKT_GIA": "Điều trị tủy răng có sử dụng kính hiển vi và hàn kín hệ thống ống tủy bằng Gutta percha nguội [răng số  4, 5]",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "631000",
+    "NHOM": "18"
+  },
+  {
+    "STT": "244",
+    "MA_TUONG_DUONG": "16.0048.1014",
+    "TEN_DVKT_GIA": "Điều trị tủy răng có sử dụng kính hiển vi và hàn kín hệ thống ống tủy bằng Gutta percha nguội [răng số 1, 2, 3]",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "455500",
+    "NHOM": "18"
+  },
+  {
+    "STT": "245",
+    "MA_TUONG_DUONG": "16.0048.1015",
+    "TEN_DVKT_GIA": "Điều trị tủy răng có sử dụng kính hiển vi và hàn kín hệ thống ống tủy bằng Gutta percha nguội [răng số 6,7 hàm trên]",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "991000",
+    "NHOM": "18"
+  },
+  {
+    "STT": "246",
+    "MA_TUONG_DUONG": "16.0049.1012",
+    "TEN_DVKT_GIA": "Điều trị tủy răng có sử dụng kính hiển vi và hàn kín hệ thống ống tủy bằng Gutta percha nóng chảy [răng số  4, 5]",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "631000",
+    "NHOM": "18"
+  },
+  {
+    "STT": "247",
+    "MA_TUONG_DUONG": "16.0049.1013",
+    "TEN_DVKT_GIA": "Điều trị tủy răng có sử dụng kính hiển vi và hàn kín hệ thống ống tủy bằng Gutta percha nóng chảy [răng số  6,7 hàm dưới]",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "861000",
+    "NHOM": "18"
+  },
+  {
+    "STT": "248",
+    "MA_TUONG_DUONG": "16.0049.1014",
+    "TEN_DVKT_GIA": "Điều trị tủy răng có sử dụng kính hiển vi và hàn kín hệ thống ống tủy bằng Gutta percha nóng chảy [răng số 1, 2, 3]",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "455500",
+    "NHOM": "18"
+  },
+  {
+    "STT": "249",
+    "MA_TUONG_DUONG": "16.0049.1015",
+    "TEN_DVKT_GIA": "Điều trị tủy răng có sử dụng kính hiển vi và hàn kín hệ thống ống tủy bằng Gutta percha nóng chảy [răng số 6,7 hàm trên]",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "991000",
+    "NHOM": "18"
+  },
+  {
+    "STT": "250",
+    "MA_TUONG_DUONG": "16.0046.1012",
+    "TEN_DVKT_GIA": "Điều trị tủy răng có sử dụng laser và hàn kín hệ thống ống tủy bằng Gutta percha nguội [răng số  4, 5]",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "631000",
+    "NHOM": "18"
+  },
+  {
+    "STT": "251",
+    "MA_TUONG_DUONG": "16.0046.1013",
+    "TEN_DVKT_GIA": "Điều trị tủy răng có sử dụng laser và hàn kín hệ thống ống tủy bằng Gutta percha nguội [răng số  6, 7 hàm dưới]",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "861000",
+    "NHOM": "18"
+  },
+  {
+    "STT": "252",
+    "MA_TUONG_DUONG": "16.0046.1014",
+    "TEN_DVKT_GIA": "Điều trị tủy răng có sử dụng laser và hàn kín hệ thống ống tủy bằng Gutta percha nguội [răng số 1, 2, 3]",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "455500",
+    "NHOM": "18"
+  },
+  {
+    "STT": "253",
+    "MA_TUONG_DUONG": "16.0046.1015",
+    "TEN_DVKT_GIA": "Điều trị tủy răng có sử dụng laser và hàn kín hệ thống ống tủy bằng Gutta percha nguội [răng số 6,7 hàm trên]",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "991000",
+    "NHOM": "18"
+  },
+  {
+    "STT": "254",
+    "MA_TUONG_DUONG": "16.0047.1012",
+    "TEN_DVKT_GIA": "Điều trị tủy răng có sử dụng laser và hàn kín hệ thống ống tủy bằng Gutta percha nóng chảy [răng số  4, 5]",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "631000",
+    "NHOM": "18"
+  },
+  {
+    "STT": "255",
+    "MA_TUONG_DUONG": "16.0047.1013",
+    "TEN_DVKT_GIA": "Điều trị tủy răng có sử dụng laser và hàn kín hệ thống ống tủy bằng Gutta percha nóng chảy [răng số  6, 7 hàm dưới]",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "861000",
+    "NHOM": "18"
+  },
+  {
+    "STT": "256",
+    "MA_TUONG_DUONG": "16.0047.1014",
+    "TEN_DVKT_GIA": "Điều trị tủy răng có sử dụng laser và hàn kín hệ thống ống tủy bằng Gutta percha nóng chảy [răng số 1, 2, 3]",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "455500",
+    "NHOM": "18"
+  },
+  {
+    "STT": "257",
+    "MA_TUONG_DUONG": "16.0047.1015",
+    "TEN_DVKT_GIA": "Điều trị tủy răng có sử dụng laser và hàn kín hệ thống ống tủy bằng Gutta percha nóng chảy [răng số 6,7 hàm trên]",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "991000",
+    "NHOM": "18"
+  },
+  {
+    "STT": "258",
+    "MA_TUONG_DUONG": "16.0044.1012",
+    "TEN_DVKT_GIA": "Điều trị tủy răng có sử dụng siêu âm và hàn kín hệ thống ống tủy bằng Gutta percha nguội [răng số  4, 5]",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "631000",
+    "NHOM": "18"
+  },
+  {
+    "STT": "259",
+    "MA_TUONG_DUONG": "16.0044.1013",
+    "TEN_DVKT_GIA": "Điều trị tủy răng có sử dụng siêu âm và hàn kín hệ thống ống tủy bằng Gutta percha nguội [răng số  6, 7 hàm dưới]",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "861000",
+    "NHOM": "18"
+  },
+  {
+    "STT": "260",
+    "MA_TUONG_DUONG": "16.0044.1014",
+    "TEN_DVKT_GIA": "Điều trị tủy răng có sử dụng siêu âm và hàn kín hệ thống ống tủy bằng Gutta percha nguội [răng số 1, 2, 3]",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "455500",
+    "NHOM": "18"
+  },
+  {
+    "STT": "261",
+    "MA_TUONG_DUONG": "16.0044.1015",
+    "TEN_DVKT_GIA": "Điều trị tủy răng có sử dụng siêu âm và hàn kín hệ thống ống tủy bằng Gutta percha nguội [răng số 6,7 hàm trên]",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "991000",
+    "NHOM": "18"
+  },
+  {
+    "STT": "262",
+    "MA_TUONG_DUONG": "16.0045.1012",
+    "TEN_DVKT_GIA": "Điều trị tủy răng có sử dụng siêu âm và hàn kín hệ thống ống tủy bằng Gutta percha nóng chảy  [răng số  4, 5]",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "631000",
+    "NHOM": "18"
+  },
+  {
+    "STT": "263",
+    "MA_TUONG_DUONG": "16.0045.1013",
+    "TEN_DVKT_GIA": "Điều trị tủy răng có sử dụng siêu âm và hàn kín hệ thống ống tủy bằng Gutta percha nóng chảy [răng số  6, 7 hàm dưới]",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "861000",
+    "NHOM": "18"
+  },
+  {
+    "STT": "264",
+    "MA_TUONG_DUONG": "16.0045.1014",
+    "TEN_DVKT_GIA": "Điều trị tủy răng có sử dụng siêu âm và hàn kín hệ thống ống tủy bằng Gutta percha nóng chảy [răng số 1, 2, 3]",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "455500",
+    "NHOM": "18"
+  },
+  {
+    "STT": "265",
+    "MA_TUONG_DUONG": "16.0045.1015",
+    "TEN_DVKT_GIA": "Điều trị tủy răng có sử dụng siêu âm và hàn kín hệ thống ống tủy bằng Gutta percha nóng chảy [răng số 6,7 hàm trên]",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "991000",
+    "NHOM": "18"
+  },
+  {
+    "STT": "266",
+    "MA_TUONG_DUONG": "16.0232.1016",
+    "TEN_DVKT_GIA": "Điều trị tủy răng sữa [một chân]",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "296100",
+    "NHOM": "18"
+  },
+  {
+    "STT": "267",
+    "MA_TUONG_DUONG": "16.0232.1017",
+    "TEN_DVKT_GIA": "Điều trị tủy răng sữa [nhiều chân]",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "415500",
+    "NHOM": "18"
+  },
+  {
+    "STT": "268",
+    "MA_TUONG_DUONG": "16.0050.1012",
+    "TEN_DVKT_GIA": "Điều trị tủy răng và hàn kín hệ thống ống tủy bằng Gutta percha nguội [răng số  4, 5]",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "631000",
+    "NHOM": "18"
+  },
+  {
+    "STT": "269",
+    "MA_TUONG_DUONG": "16.0050.1013",
+    "TEN_DVKT_GIA": "Điều trị tủy răng và hàn kín hệ thống ống tủy bằng Gutta percha nguội [răng số  6,7 hàm dưới]",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "861000",
+    "NHOM": "18"
+  },
+  {
+    "STT": "270",
+    "MA_TUONG_DUONG": "16.0050.1014",
+    "TEN_DVKT_GIA": "Điều trị tủy răng và hàn kín hệ thống ống tủy bằng Gutta percha nguội [răng số 1, 2, 3]",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "455500",
+    "NHOM": "18"
+  },
+  {
+    "STT": "271",
+    "MA_TUONG_DUONG": "16.0050.1015",
+    "TEN_DVKT_GIA": "Điều trị tủy răng và hàn kín hệ thống ống tủy bằng Gutta percha nguội [răng số 6,7 hàm trên]",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "991000",
+    "NHOM": "18"
+  },
+  {
+    "STT": "272",
+    "MA_TUONG_DUONG": "16.0052.1013",
+    "TEN_DVKT_GIA": "Điều trị tủy răng và hàn kín hệ thống ống tủy bằng Gutta percha nguội có sử dụng trâm xoay cầm tay [răng số  6,7 hàm dưới]",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "861000",
+    "NHOM": "18"
+  },
+  {
+    "STT": "273",
+    "MA_TUONG_DUONG": "16.0052.1014",
+    "TEN_DVKT_GIA": "Điều trị tủy răng và hàn kín hệ thống ống tủy bằng Gutta percha nguội có sử dụng trâm xoay cầm tay [răng số 1, 2, 3]",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "455500",
+    "NHOM": "18"
+  },
+  {
+    "STT": "274",
+    "MA_TUONG_DUONG": "16.0052.1012",
+    "TEN_DVKT_GIA": "Điều trị tủy răng và hàn kín hệ thống ống tủy bằng Gutta percha nguội có sử dụng trâm xoay cầm tay [răng số 4,5]",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "631000",
+    "NHOM": "18"
+  },
+  {
+    "STT": "275",
+    "MA_TUONG_DUONG": "16.0052.1015",
+    "TEN_DVKT_GIA": "Điều trị tủy răng và hàn kín hệ thống ống tủy bằng Gutta percha nguội có sử dụng trâm xoay cầm tay [răng số 6,7 hàm trên]",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "991000",
+    "NHOM": "18"
+  },
+  {
+    "STT": "276",
+    "MA_TUONG_DUONG": "16.0054.1012",
+    "TEN_DVKT_GIA": "Điều trị tủy răng và hàn kín hệ thống ống tủy bằng Gutta percha nguội có sử dụng trâm xoay máy [răng số  4, 5]",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "631000",
+    "NHOM": "18"
+  },
+  {
+    "STT": "277",
+    "MA_TUONG_DUONG": "16.0054.1013",
+    "TEN_DVKT_GIA": "Điều trị tủy răng và hàn kín hệ thống ống tủy bằng Gutta percha nguội có sử dụng trâm xoay máy [răng số  6,7 hàm dưới]",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "861000",
+    "NHOM": "18"
+  },
+  {
+    "STT": "278",
+    "MA_TUONG_DUONG": "16.0054.1014",
+    "TEN_DVKT_GIA": "Điều trị tủy răng và hàn kín hệ thống ống tủy bằng Gutta percha nguội có sử dụng trâm xoay máy [răng số 1, 2, 3]",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "455500",
+    "NHOM": "18"
+  },
+  {
+    "STT": "279",
+    "MA_TUONG_DUONG": "16.0054.1015",
+    "TEN_DVKT_GIA": "Điều trị tủy răng và hàn kín hệ thống ống tủy bằng Gutta percha nguội có sử dụng trâm xoay máy [răng số 6,7 hàm trên]",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "991000",
+    "NHOM": "18"
+  },
+  {
+    "STT": "280",
+    "MA_TUONG_DUONG": "16.0051.1012",
+    "TEN_DVKT_GIA": "Điều trị tủy răng và hàn kín hệ thống ống tủy bằng Gutta percha nóng chảy [răng số  4, 5]",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "631000",
+    "NHOM": "18"
+  },
+  {
+    "STT": "281",
+    "MA_TUONG_DUONG": "16.0051.1013",
+    "TEN_DVKT_GIA": "Điều trị tủy răng và hàn kín hệ thống ống tủy bằng Gutta percha nóng chảy [răng số  6,7 hàm dưới]",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "861000",
+    "NHOM": "18"
+  },
+  {
+    "STT": "282",
+    "MA_TUONG_DUONG": "16.0051.1014",
+    "TEN_DVKT_GIA": "Điều trị tủy răng và hàn kín hệ thống ống tủy bằng Gutta percha nóng chảy [răng số 1, 2, 3]",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "455500",
+    "NHOM": "18"
+  },
+  {
+    "STT": "283",
+    "MA_TUONG_DUONG": "16.0051.1015",
+    "TEN_DVKT_GIA": "Điều trị tủy răng và hàn kín hệ thống ống tủy bằng Gutta percha nóng chảy [răng số 6,7 hàm trên]",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "991000",
+    "NHOM": "18"
+  },
+  {
+    "STT": "284",
+    "MA_TUONG_DUONG": "16.0053.1012",
+    "TEN_DVKT_GIA": "Điều trị tủy răng và hàn kín hệ thống ống tủy bằng Gutta percha nóng chảy có sử dụng trâm xoay cầm tay [răng số  4, 5]",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "631000",
+    "NHOM": "18"
+  },
+  {
+    "STT": "285",
+    "MA_TUONG_DUONG": "16.0053.1013",
+    "TEN_DVKT_GIA": "Điều trị tủy răng và hàn kín hệ thống ống tủy bằng Gutta percha nóng chảy có sử dụng trâm xoay cầm tay [răng số  6,7 hàm dưới]",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "861000",
+    "NHOM": "18"
+  },
+  {
+    "STT": "286",
+    "MA_TUONG_DUONG": "16.0053.1014",
+    "TEN_DVKT_GIA": "Điều trị tủy răng và hàn kín hệ thống ống tủy bằng Gutta percha nóng chảy có sử dụng trâm xoay cầm tay [răng số 1, 2, 3]",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "455500",
+    "NHOM": "18"
+  },
+  {
+    "STT": "287",
+    "MA_TUONG_DUONG": "16.0053.1015",
+    "TEN_DVKT_GIA": "Điều trị tủy răng và hàn kín hệ thống ống tủy bằng Gutta percha nóng chảy có sử dụng trâm xoay cầm tay [răng số 6,7 hàm trên]",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "991000",
+    "NHOM": "18"
+  },
+  {
+    "STT": "288",
+    "MA_TUONG_DUONG": "16.0055.1012",
+    "TEN_DVKT_GIA": "Điều trị tủy răng và hàn kín hệ thống ống tủy bằng Gutta percha nóng chảy có sử dụng trâm xoay máy [răng số  4, 5]",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "631000",
+    "NHOM": "18"
+  },
+  {
+    "STT": "289",
+    "MA_TUONG_DUONG": "16.0055.1013",
+    "TEN_DVKT_GIA": "Điều trị tủy răng và hàn kín hệ thống ống tủy bằng Gutta percha nóng chảy có sử dụng trâm xoay máy [răng số  6,7 hàm dưới]",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "861000",
+    "NHOM": "18"
+  },
+  {
+    "STT": "290",
+    "MA_TUONG_DUONG": "16.0055.1014",
+    "TEN_DVKT_GIA": "Điều trị tủy răng và hàn kín hệ thống ống tủy bằng Gutta percha nóng chảy có sử dụng trâm xoay máy [răng số 1, 2, 3]",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "455500",
+    "NHOM": "18"
+  },
+  {
+    "STT": "291",
+    "MA_TUONG_DUONG": "16.0055.1015",
+    "TEN_DVKT_GIA": "Điều trị tủy răng và hàn kín hệ thống ống tủy bằng Gutta percha nóng chảy có sử dụng trâm xoay máy [răng số 6,7 hàm trên]",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "991000",
+    "NHOM": "18"
+  },
+  {
+    "STT": "292",
+    "MA_TUONG_DUONG": "08.0481.0235",
+    "TEN_DVKT_GIA": "Giác hơi điều trị các chứng đau",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "36700",
+    "NHOM": "18"
+  },
+  {
+    "STT": "293",
+    "MA_TUONG_DUONG": "08.0482.0235",
+    "TEN_DVKT_GIA": "Giác hơi điều trị cảm cúm",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "36700",
+    "NHOM": "18"
+  },
+  {
+    "STT": "294",
+    "MA_TUONG_DUONG": "08.0479.0235",
+    "TEN_DVKT_GIA": "Giác hơi điều trị ngoại cảm phong hàn",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "36700",
+    "NHOM": "18"
+  },
+  {
+    "STT": "295",
+    "MA_TUONG_DUONG": "08.0480.0235",
+    "TEN_DVKT_GIA": "Giác hơi điều trị ngoại cảm phong nhiệt",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "36700",
+    "NHOM": "18"
+  },
+  {
+    "STT": "296",
+    "MA_TUONG_DUONG": "13.0157.0619",
+    "TEN_DVKT_GIA": "Hút buồng tử cung do rong kinh, rong huyết",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "236500",
+    "NHOM": "18"
+  },
+  {
+    "STT": "297",
+    "MA_TUONG_DUONG": "02.0349.0112",
+    "TEN_DVKT_GIA": "Hút dịch khớp gối",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "129600",
+    "NHOM": "18"
+  },
+  {
+    "STT": "298",
+    "MA_TUONG_DUONG": "02.0150.0114",
+    "TEN_DVKT_GIA": "Hút đờm hầu họng",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "14100",
+    "NHOM": "18"
+  },
+  {
+    "STT": "299",
+    "MA_TUONG_DUONG": "02.0361.0112",
+    "TEN_DVKT_GIA": "Hút nang bao hoạt dịch",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "129600",
+    "NHOM": "18"
+  },
+  {
+    "STT": "300",
+    "MA_TUONG_DUONG": "02.0363.0086",
+    "TEN_DVKT_GIA": "Hút ổ viêm/áp xe phần mềm",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "126700",
+    "NHOM": "18"
+  },
+  {
+    "STT": "301",
+    "MA_TUONG_DUONG": "15.0147.1006",
+    "TEN_DVKT_GIA": "Hút rửa mũi, xoang sau mổ",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "153600",
+    "NHOM": "18"
+  },
+  {
+    "STT": "302",
+    "MA_TUONG_DUONG": "15.0214.1002",
+    "TEN_DVKT_GIA": "Khâu phục hồi tổn thương đơn giản miệng, họng",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "1075700",
+    "NHOM": "18"
+  },
+  {
+    "STT": "303",
+    "MA_TUONG_DUONG": "15.0051.0216",
+    "TEN_DVKT_GIA": "Khâu vết rách vành tai",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "194700",
+    "NHOM": "18"
+  },
+  {
+    "STT": "304",
+    "MA_TUONG_DUONG": "15.0301.0218",
+    "TEN_DVKT_GIA": "Khâu vết thương đơn giản vùng đầu, mặt, cổ [ tổn thương sâu chiều dài < l0 cm]",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "289500",
+    "NHOM": "18"
+  },
+  {
+    "STT": "305",
+    "MA_TUONG_DUONG": "15.0301.0216",
+    "TEN_DVKT_GIA": "Khâu vết thương đơn giản vùng đầu, mặt, cổ [tổn thương nông chiều dài < l0 cm]",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "194700",
+    "NHOM": "18"
+  },
+  {
+    "STT": "306",
+    "MA_TUONG_DUONG": "15.0301.0217",
+    "TEN_DVKT_GIA": "Khâu vết thương đơn giản vùng đầu, mặt, cổ [tổn thương nông chiều dài ≥ l0 cm]",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "269500",
+    "NHOM": "18"
+  },
+  {
+    "STT": "307",
+    "MA_TUONG_DUONG": "15.0301.0219",
+    "TEN_DVKT_GIA": "Khâu vết thương đơn giản vùng đầu, mặt, cổ [tổn thương sâu chiều dài ≥ l0 cm]",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "354200",
+    "NHOM": "18"
+  },
+  {
+    "STT": "308",
+    "MA_TUONG_DUONG": "03.3827.0216",
+    "TEN_DVKT_GIA": "Khâu vết thương phần mềm dài dưới 10 cm [tổn thương nông]",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "194700",
+    "NHOM": "18"
+  },
+  {
+    "STT": "309",
+    "MA_TUONG_DUONG": "03.3827.0218",
+    "TEN_DVKT_GIA": "Khâu vết thương phần mềm dài dưới 10 cm [tổn thương sâu]",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "289500",
+    "NHOM": "18"
+  },
+  {
+    "STT": "310",
+    "MA_TUONG_DUONG": "03.3825.0217",
+    "TEN_DVKT_GIA": "Khâu vết thương phần mềm dài trên 10 cm  [tổn thương nông]",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "269500",
+    "NHOM": "18"
+  },
+  {
+    "STT": "311",
+    "MA_TUONG_DUONG": "10.9005.0217_BS",
+    "TEN_DVKT_GIA": "Khâu vết thương phần mềm dài trên 10 cm [tổn thương nông]",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "269500",
+    "NHOM": "18"
+  },
+  {
+    "STT": "312",
+    "MA_TUONG_DUONG": "10.9005.0216_BS",
+    "TEN_DVKT_GIA": "Khâu vết thương phần mềm dài trên 10 cm [tổn thương nông]",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "194700",
+    "NHOM": "18"
+  },
+  {
+    "STT": "313",
+    "MA_TUONG_DUONG": "03.3825.0219",
+    "TEN_DVKT_GIA": "Khâu vết thương phần mềm dài trên 10 cm [tổn thương sâu]",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "354200",
+    "NHOM": "18"
+  },
+  {
+    "STT": "314",
+    "MA_TUONG_DUONG": "10.9005.0219_BS",
+    "TEN_DVKT_GIA": "Khâu vết thương phần mềm dài trên 10 cm [tổn thương sâu]",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "354200",
+    "NHOM": "18"
+  },
+  {
+    "STT": "315",
+    "MA_TUONG_DUONG": "03.2191.0898",
+    "TEN_DVKT_GIA": "Khí dung mũi họng",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "27500",
+    "NHOM": "18"
+  },
+  {
+    "STT": "316",
+    "MA_TUONG_DUONG": "15.0222.0898",
+    "TEN_DVKT_GIA": "Khí dung mũi họng",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "27500",
+    "NHOM": "18"
+  },
+  {
+    "STT": "317",
+    "MA_TUONG_DUONG": "02.0032.0898",
+    "TEN_DVKT_GIA": "Khí dung thuốc giãn phế quản",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "27500",
+    "NHOM": "18"
+  },
+  {
+    "STT": "318",
+    "MA_TUONG_DUONG": "03.2120.0899",
+    "TEN_DVKT_GIA": "Làm thuốc tai",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "22000",
+    "NHOM": "18"
+  },
+  {
+    "STT": "319",
+    "MA_TUONG_DUONG": "16.0043.1020",
+    "TEN_DVKT_GIA": "Lấy cao răng [hai hàm]",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "159100",
+    "NHOM": "18"
+  },
+  {
+    "STT": "320",
+    "MA_TUONG_DUONG": "16.0043.1021",
+    "TEN_DVKT_GIA": "Lấy cao răng [một vùng hoặc một hàm]",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "92500",
+    "NHOM": "18"
+  },
+  {
+    "STT": "321",
+    "MA_TUONG_DUONG": "13.0148.0630",
+    "TEN_DVKT_GIA": "Lấy dị vật âm đạo",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "653700",
+    "NHOM": "18"
+  },
+  {
+    "STT": "322",
+    "MA_TUONG_DUONG": "15.0212.0900",
+    "TEN_DVKT_GIA": "Lấy dị vật họng miệng",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "43100",
+    "NHOM": "18"
+  },
+  {
+    "STT": "323",
+    "MA_TUONG_DUONG": "15.0143.0906",
+    "TEN_DVKT_GIA": "Lấy dị vật mũi [gây mê]",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "705500",
+    "NHOM": "18"
+  },
+  {
+    "STT": "324",
+    "MA_TUONG_DUONG": "15.0143.0907",
+    "TEN_DVKT_GIA": "Lấy dị vật mũi [không gây mê]",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "213900",
+    "NHOM": "18"
+  },
+  {
+    "STT": "325",
+    "MA_TUONG_DUONG": "15.0054.0902",
+    "TEN_DVKT_GIA": "Lấy dị vật tai [kính hiển vi, gây mê]",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "530700",
+    "NHOM": "18"
+  },
+  {
+    "STT": "326",
+    "MA_TUONG_DUONG": "15.0054.0903",
+    "TEN_DVKT_GIA": "Lấy dị vật tai [kính hiển vi, gây tê]",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "170600",
+    "NHOM": "18"
+  },
+  {
+    "STT": "327",
+    "MA_TUONG_DUONG": "10.0526.0465",
+    "TEN_DVKT_GIA": "Lấy dị vật trực tràng",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "3993400",
+    "NHOM": "18"
+  },
+  {
+    "STT": "328",
+    "MA_TUONG_DUONG": "15.0059.0908",
+    "TEN_DVKT_GIA": "Lấy nút biểu bì ống tai ngoài",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "70300",
+    "NHOM": "18"
+  },
+  {
+    "STT": "329",
+    "MA_TUONG_DUONG": "10.1030.0515",
+    "TEN_DVKT_GIA": "Nắm, cố định trật khớp hàm [bột liền]",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "434600",
+    "NHOM": "18"
+  },
+  {
+    "STT": "330",
+    "MA_TUONG_DUONG": "10.1030.0516",
+    "TEN_DVKT_GIA": "Nắm, cố định trật khớp hàm [bột tự cán]",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "256600",
+    "NHOM": "18"
+  },
+  {
+    "STT": "331",
+    "MA_TUONG_DUONG": "10.1001.0515",
+    "TEN_DVKT_GIA": "Nắn, bó bột bong sụn tiếp khớp khuỷu, khớp cổ tay [bột liền]",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "434600",
+    "NHOM": "18"
+  },
+  {
+    "STT": "332",
+    "MA_TUONG_DUONG": "10.1021.0525",
+    "TEN_DVKT_GIA": "Nắn, bó bột gãy 1/3 dưới hai xương cẳng chân  [bột liền]",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "372700",
+    "NHOM": "18"
+  },
+  {
+    "STT": "333",
+    "MA_TUONG_DUONG": "03.3866.0525",
+    "TEN_DVKT_GIA": "Nắn, bó bột gãy 1/3 dưới hai xương cẳng chân  [bột liền]",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "372700",
+    "NHOM": "18"
+  },
+  {
+    "STT": "334",
+    "MA_TUONG_DUONG": "10.1006.0527",
+    "TEN_DVKT_GIA": "Nắn, bó bột gãy 1/3 dưới hai xương cẳng tay  [bột liền]",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "372700",
+    "NHOM": "18"
+  },
+  {
+    "STT": "335",
+    "MA_TUONG_DUONG": "03.3851.0521",
+    "TEN_DVKT_GIA": "Nắn, bó bột gãy 1/3 dưới hai xương cẳng tay  [bột liền]",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "372700",
+    "NHOM": "18"
+  },
+  {
+    "STT": "336",
+    "MA_TUONG_DUONG": "10.0999.0527",
+    "TEN_DVKT_GIA": "Nắn, bó bột gãy 1/3 dưới thân xương cánh tay  [bột liền]",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "372700",
+    "NHOM": "18"
+  },
+  {
+    "STT": "337",
+    "MA_TUONG_DUONG": "03.3843.0527",
+    "TEN_DVKT_GIA": "Nắn, bó bột gãy 1/3 dưới thân xương cánh tay  [bột liền]",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "372700",
+    "NHOM": "18"
+  },
+  {
+    "STT": "338",
+    "MA_TUONG_DUONG": "03.3843.0528",
+    "TEN_DVKT_GIA": "Nắn, bó bột gãy 1/3 dưới thân xương cánh tay [bột tự cán]",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "300100",
+    "NHOM": "18"
+  },
+  {
+    "STT": "339",
+    "MA_TUONG_DUONG": "10.1020.0525",
+    "TEN_DVKT_GIA": "Nắn, bó bột gãy 1/3 giữa hai xương cẳng chân  [bột liền]",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "372700",
+    "NHOM": "18"
+  },
+  {
+    "STT": "340",
+    "MA_TUONG_DUONG": "03.3865.0525",
+    "TEN_DVKT_GIA": "Nắn, bó bột gãy 1/3 giữa hai xương cẳng chân  [bột liền]",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "372700",
+    "NHOM": "18"
+  },
+  {
+    "STT": "341",
+    "MA_TUONG_DUONG": "10.1005.0527",
+    "TEN_DVKT_GIA": "Nắn, bó bột gãy 1/3 giữa hai xương cẳng tay  [bột liền]",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "372700",
+    "NHOM": "18"
+  },
+  {
+    "STT": "342",
+    "MA_TUONG_DUONG": "10.1005.0528",
+    "TEN_DVKT_GIA": "Nắn, bó bột gãy 1/3 giữa hai xương cẳng tay [bột tự cán]",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "300100",
+    "NHOM": "18"
+  },
+  {
+    "STT": "343",
+    "MA_TUONG_DUONG": "03.3842.0527",
+    "TEN_DVKT_GIA": "Nắn, bó bột gãy 1/3 giữa thân xương cánh tay  [bột liền]",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "372700",
+    "NHOM": "18"
+  },
+  {
+    "STT": "344",
+    "MA_TUONG_DUONG": "10.0998.0527",
+    "TEN_DVKT_GIA": "Nắn, bó bột gãy 1/3 giữa thân xương cánh tay  [bột liền]",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "372700",
+    "NHOM": "18"
+  },
+  {
+    "STT": "345",
+    "MA_TUONG_DUONG": "03.3864.0525",
+    "TEN_DVKT_GIA": "Nắn, bó bột gãy 1/3 trên hai xương cẳng chân  [bột liền]",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "372700",
+    "NHOM": "18"
+  },
+  {
+    "STT": "346",
+    "MA_TUONG_DUONG": "10.1019.0525",
+    "TEN_DVKT_GIA": "Nắn, bó bột gãy 1/3 trên hai xương cẳng chân  [bột liền]",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "372700",
+    "NHOM": "18"
+  },
+  {
+    "STT": "347",
+    "MA_TUONG_DUONG": "03.3849.0521",
+    "TEN_DVKT_GIA": "Nắn, bó bột gãy 1/3 trên hai xương cẳng tay  [bột liền]",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "372700",
+    "NHOM": "18"
+  },
+  {
+    "STT": "348",
+    "MA_TUONG_DUONG": "10.1004.0527",
+    "TEN_DVKT_GIA": "Nắn, bó bột gãy 1/3 trên hai xương cẳng tay  [bột liền]",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "372700",
+    "NHOM": "18"
+  },
+  {
+    "STT": "349",
+    "MA_TUONG_DUONG": "03.3841.0527",
+    "TEN_DVKT_GIA": "Nắn, bó bột gãy 1/3 trên thân xương cánh tay  [bột liền]",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "372700",
+    "NHOM": "18"
+  },
+  {
+    "STT": "350",
+    "MA_TUONG_DUONG": "10.0997.0527",
+    "TEN_DVKT_GIA": "Nắn, bó bột gãy 1/3 trên thân xương cánh tay  [bột liền]",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "372700",
+    "NHOM": "18"
+  },
+  {
+    "STT": "351",
+    "MA_TUONG_DUONG": "10.1002.0527",
+    "TEN_DVKT_GIA": "Nắn, bó bột gãy cổ xương cánh tay  [bột liền]",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "372700",
+    "NHOM": "18"
+  },
+  {
+    "STT": "352",
+    "MA_TUONG_DUONG": "03.3847.0527",
+    "TEN_DVKT_GIA": "Nắn, bó bột gãy cổ xương cánh tay  [bột liền]",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "372700",
+    "NHOM": "18"
+  },
+  {
+    "STT": "353",
+    "MA_TUONG_DUONG": "10.1026.0525",
+    "TEN_DVKT_GIA": "Nắn, bó bột gãy Dupuptren  [bột liền]",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "372700",
+    "NHOM": "18"
+  },
+  {
+    "STT": "354",
+    "MA_TUONG_DUONG": "03.3868.0525",
+    "TEN_DVKT_GIA": "Nắn, bó bột gãy Dupuytren  [bột liền]",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "372700",
+    "NHOM": "18"
+  },
+  {
+    "STT": "355",
+    "MA_TUONG_DUONG": "03.3868.0526",
+    "TEN_DVKT_GIA": "Nắn, bó bột gãy Dupuytren [bột tự cán]",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "300100",
+    "NHOM": "18"
+  },
+  {
+    "STT": "356",
+    "MA_TUONG_DUONG": "10.1012.0525",
+    "TEN_DVKT_GIA": "Nắn, bó bột gãy mâm chày  [bột liền]",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "372700",
+    "NHOM": "18"
+  },
+  {
+    "STT": "357",
+    "MA_TUONG_DUONG": "03.3857.0525",
+    "TEN_DVKT_GIA": "Nắn, bó bột gãy mâm chày  [bột liền]",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "372700",
+    "NHOM": "18"
+  },
+  {
+    "STT": "358",
+    "MA_TUONG_DUONG": "10.1027.0521",
+    "TEN_DVKT_GIA": "Nắn, bó bột gãy Monteggia  [bột liền]",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "372700",
+    "NHOM": "18"
+  },
+  {
+    "STT": "359",
+    "MA_TUONG_DUONG": "10.1007.0521",
+    "TEN_DVKT_GIA": "Nắn, bó bột gãy một xương cẳng tay  [bột liền]",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "372700",
+    "NHOM": "18"
+  },
+  {
+    "STT": "360",
+    "MA_TUONG_DUONG": "03.3852.0521",
+    "TEN_DVKT_GIA": "Nắn, bó bột gãy một xương cẳng tay  [bột liền]",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "372700",
+    "NHOM": "18"
+  },
+  {
+    "STT": "361",
+    "MA_TUONG_DUONG": "10.1007.0522",
+    "TEN_DVKT_GIA": "Nắn, bó bột gãy một xương cẳng tay [bột tự cán]",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "242400",
+    "NHOM": "18"
+  },
+  {
+    "STT": "362",
+    "MA_TUONG_DUONG": "10.1008.0521",
+    "TEN_DVKT_GIA": "Nắn, bó bột gãy Pouteau - Colles  [bột liền]",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "372700",
+    "NHOM": "18"
+  },
+  {
+    "STT": "363",
+    "MA_TUONG_DUONG": "03.3853.0521",
+    "TEN_DVKT_GIA": "Nắn, bó bột gãy Pouteau-Colles  [bột liền]",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "372700",
+    "NHOM": "18"
+  },
+  {
+    "STT": "364",
+    "MA_TUONG_DUONG": "10.1028.0519",
+    "TEN_DVKT_GIA": "Nắn, bó bột gãy xương bàn chân  [bột liền]",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "257000",
+    "NHOM": "18"
+  },
+  {
+    "STT": "365",
+    "MA_TUONG_DUONG": "03.3870.0519",
+    "TEN_DVKT_GIA": "Nắn, bó bột gãy xương bàn chân  [bột liền]",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "257000",
+    "NHOM": "18"
+  },
+  {
+    "STT": "366",
+    "MA_TUONG_DUONG": "03.3854.0519",
+    "TEN_DVKT_GIA": "Nắn, bó bột gãy xương bàn, ngón tay [bột liền]",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "257000",
+    "NHOM": "18"
+  },
+  {
+    "STT": "367",
+    "MA_TUONG_DUONG": "10.1009.0519",
+    "TEN_DVKT_GIA": "Nắn, bó bột gãy xương bàn, ngón tay [bột liền]",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "257000",
+    "NHOM": "18"
+  },
+  {
+    "STT": "368",
+    "MA_TUONG_DUONG": "10.1022.0519",
+    "TEN_DVKT_GIA": "Nắn, bó bột gãy xương chày [bột liền]",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "257000",
+    "NHOM": "18"
+  },
+  {
+    "STT": "369",
+    "MA_TUONG_DUONG": "10.0996.0515",
+    "TEN_DVKT_GIA": "Nắn, bó bột gãy xương đòn [bột liền]",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "434600",
+    "NHOM": "18"
+  },
+  {
+    "STT": "370",
+    "MA_TUONG_DUONG": "03.3871.0532",
+    "TEN_DVKT_GIA": "Nắn, bó bột gãy xương gót",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "167000",
+    "NHOM": "18"
+  },
+  {
+    "STT": "371",
+    "MA_TUONG_DUONG": "10.1023.0532",
+    "TEN_DVKT_GIA": "Nắn, bó bột gãy xương gót",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "167000",
+    "NHOM": "18"
+  },
+  {
+    "STT": "372",
+    "MA_TUONG_DUONG": "10.1024.0519",
+    "TEN_DVKT_GIA": "Nắn, bó bột gãy xương ngón chân [bột liền]",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "257000",
+    "NHOM": "18"
+  },
+  {
+    "STT": "373",
+    "MA_TUONG_DUONG": "10.1031.0513",
+    "TEN_DVKT_GIA": "Nắn, bó bột trật khớp cổ chân [bột liền]",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "282000",
+    "NHOM": "18"
+  },
+  {
+    "STT": "374",
+    "MA_TUONG_DUONG": "10.1025.0517",
+    "TEN_DVKT_GIA": "Nắn, bó bột trật khớp cùng đòn [bột liền]",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "342000",
+    "NHOM": "18"
+  },
+  {
+    "STT": "375",
+    "MA_TUONG_DUONG": "10.1018.0513",
+    "TEN_DVKT_GIA": "Nắn, bó bột trật khớp gối [bột liền]",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "282000",
+    "NHOM": "18"
+  },
+  {
+    "STT": "376",
+    "MA_TUONG_DUONG": "03.3855.0511",
+    "TEN_DVKT_GIA": "Nắn, bó bột trật khớp háng [bột liền]",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "667000",
+    "NHOM": "18"
+  },
+  {
+    "STT": "377",
+    "MA_TUONG_DUONG": "10.1000.0515",
+    "TEN_DVKT_GIA": "Nắn, bó bột trật khớp khuỷu [bột liền]",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "434600",
+    "NHOM": "18"
+  },
+  {
+    "STT": "378",
+    "MA_TUONG_DUONG": "03.3844.0515",
+    "TEN_DVKT_GIA": "Nắn, bó bột trật khớp khuỷu [bột liền]",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "434600",
+    "NHOM": "18"
+  },
+  {
+    "STT": "379",
+    "MA_TUONG_DUONG": "10.0995.0517",
+    "TEN_DVKT_GIA": "Nắn, bó bột trật khớp vai [bột liền]",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "342000",
+    "NHOM": "18"
+  },
+  {
+    "STT": "380",
+    "MA_TUONG_DUONG": "10.1029.0515",
+    "TEN_DVKT_GIA": "Nắn, bó bột trật khớp xương đòn [bột liền]",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "434600",
+    "NHOM": "18"
+  },
+  {
+    "STT": "381",
+    "MA_TUONG_DUONG": "10.1011.0513",
+    "TEN_DVKT_GIA": "Nắn, bó bột trong bong sụn tiếp khớp gối, khớp háng [bột liền]",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "282000",
+    "NHOM": "18"
+  },
+  {
+    "STT": "382",
+    "MA_TUONG_DUONG": "03.3874.0515",
+    "TEN_DVKT_GIA": "Nắn, cố định trật khớp hàm [bột liền]",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "434600",
+    "NHOM": "18"
+  },
+  {
+    "STT": "383",
+    "MA_TUONG_DUONG": "03.2150.0916",
+    "TEN_DVKT_GIA": "Nhét bấc mũi trước",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "139000",
+    "NHOM": "18"
+  },
+  {
+    "STT": "384",
+    "MA_TUONG_DUONG": "16.0239.1029",
+    "TEN_DVKT_GIA": "Nhổ chân răng sữa",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "46600",
+    "NHOM": "18"
+  },
+  {
+    "STT": "385",
+    "MA_TUONG_DUONG": "16.0205.1024",
+    "TEN_DVKT_GIA": "Nhổ chân răng vĩnh viễn",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "217200",
+    "NHOM": "18"
+  },
+  {
+    "STT": "386",
+    "MA_TUONG_DUONG": "16.0238.1029",
+    "TEN_DVKT_GIA": "Nhổ răng sữa",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "46600",
+    "NHOM": "18"
+  },
+  {
+    "STT": "387",
+    "MA_TUONG_DUONG": "16.0206.1026",
+    "TEN_DVKT_GIA": "Nhổ răng thừa",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "239500",
+    "NHOM": "18"
+  },
+  {
+    "STT": "388",
+    "MA_TUONG_DUONG": "16.0204.1025",
+    "TEN_DVKT_GIA": "Nhổ răng vĩnh viễn lung lay",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "110600",
+    "NHOM": "18"
+  },
+  {
+    "STT": "389",
+    "MA_TUONG_DUONG": "03.0993.0869",
+    "TEN_DVKT_GIA": "Nội soi cầm máu mũi có sử dụng Meroxeo (2 bên)",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "286500",
+    "NHOM": "18"
+  },
+  {
+    "STT": "390",
+    "MA_TUONG_DUONG": "03.0992.0868",
+    "TEN_DVKT_GIA": "Nội soi cầm máu mũi không sử dụng Meroxeo (1bên)",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "216500",
+    "NHOM": "18"
+  },
+  {
+    "STT": "391",
+    "MA_TUONG_DUONG": "02.0272.2044",
+    "TEN_DVKT_GIA": "Nội soi can thiệp - làm Clo test chẩn đoán nhiễm H.Pylori",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "317000",
+    "NHOM": "18"
+  },
+  {
+    "STT": "392",
+    "MA_TUONG_DUONG": "02.0271.0140",
+    "TEN_DVKT_GIA": "Nội soi can thiệp - tiêm cầm máu",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "798300",
+    "NHOM": "18"
+  },
+  {
+    "STT": "393",
+    "MA_TUONG_DUONG": "01.0232.0140",
+    "TEN_DVKT_GIA": "Nội soi dạ dày thực quản cấp cứu chẩn đoán và cầm máu",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "798300",
+    "NHOM": "18"
+  },
+  {
+    "STT": "394",
+    "MA_TUONG_DUONG": "03.1056.0140",
+    "TEN_DVKT_GIA": "Nội soi dạ dày thực quản cấp cứu chảy máu tiêu hóa cao để chẩn đoán và điều trị",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "798300",
+    "NHOM": "18"
+  },
+  {
+    "STT": "395",
+    "MA_TUONG_DUONG": "20.0067.0140",
+    "TEN_DVKT_GIA": "Nội soi dạ dày thực quản cấp cứu chảy máu tiêu hóa cao để chẩn đoán và điều trị",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "798300",
+    "NHOM": "18"
+  },
+  {
+    "STT": "396",
+    "MA_TUONG_DUONG": "02.0306.0137",
+    "TEN_DVKT_GIA": "Nội soi đại tràng sigma không sinh thiết",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "352100",
+    "NHOM": "18"
+  },
+  {
+    "STT": "397",
+    "MA_TUONG_DUONG": "02.0259.0137",
+    "TEN_DVKT_GIA": "Nội soi đại trực tràng toàn bộ ống mềm không sinh thiết",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "352100",
+    "NHOM": "18"
+  },
+  {
+    "STT": "398",
+    "MA_TUONG_DUONG": "02.0297.0506",
+    "TEN_DVKT_GIA": "Nội soi hậu môn ống cứng",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "169500",
+    "NHOM": "18"
+  },
+  {
+    "STT": "399",
+    "MA_TUONG_DUONG": "03.1003.2048",
+    "TEN_DVKT_GIA": "Nội soi họng",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "40000",
+    "NHOM": "18"
+  },
+  {
+    "STT": "400",
+    "MA_TUONG_DUONG": "03.1002.2048",
+    "TEN_DVKT_GIA": "Nội soi mũi",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "40000",
+    "NHOM": "18"
+  },
+  {
+    "STT": "401",
+    "MA_TUONG_DUONG": "15.9001.2048",
+    "TEN_DVKT_GIA": "Nội soi Mũi xoang",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "40000",
+    "NHOM": "18"
+  },
+  {
+    "STT": "402",
+    "MA_TUONG_DUONG": "03.1001.2048",
+    "TEN_DVKT_GIA": "Nội soi tai",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "40000",
+    "NHOM": "18"
+  },
+  {
+    "STT": "403",
+    "MA_TUONG_DUONG": "20.0013.0933",
+    "TEN_DVKT_GIA": "Nội soi tai mũi họng",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "116100",
+    "NHOM": "18"
+  },
+  {
+    "STT": "404",
+    "MA_TUONG_DUONG": "20.0013.2048",
+    "TEN_DVKT_GIA": "Nội soi tai mũi họng",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "40000",
+    "NHOM": "18"
+  },
+  {
+    "STT": "405",
+    "MA_TUONG_DUONG": "15.0238.1004",
+    "TEN_DVKT_GIA": "Nội soi thanh quản ống cứng chẩn đoán gây tê",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "549900",
+    "NHOM": "18"
+  },
+  {
+    "STT": "406",
+    "MA_TUONG_DUONG": "15.0239.1004",
+    "TEN_DVKT_GIA": "Nội soi thanh quản ống mềm chẩn đoán gây tê",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "549900",
+    "NHOM": "18"
+  },
+  {
+    "STT": "407",
+    "MA_TUONG_DUONG": "02.0253.0135",
+    "TEN_DVKT_GIA": "Nội soi thực quản - dạ dày - tá tràng cấp cứu",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "276500",
+    "NHOM": "18"
+  },
+  {
+    "STT": "408",
+    "MA_TUONG_DUONG": "02.0255.0319",
+    "TEN_DVKT_GIA": "Nội soi thực quản - dạ dày - tá tràng qua đường mũi",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "677500",
+    "NHOM": "18"
+  },
+  {
+    "STT": "409",
+    "MA_TUONG_DUONG": "02.0256.0139",
+    "TEN_DVKT_GIA": "Nội soi trực tràng ống mềm",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "215200",
+    "NHOM": "18"
+  },
+  {
+    "STT": "410",
+    "MA_TUONG_DUONG": "02.0257.0139",
+    "TEN_DVKT_GIA": "Nội soi trực tràng ống mềm cấp cứu",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "215200",
+    "NHOM": "18"
+  },
+  {
+    "STT": "411",
+    "MA_TUONG_DUONG": "02.0308.0139",
+    "TEN_DVKT_GIA": "Nội soi trực tràng ống mềm không sinh thiết",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "215200",
+    "NHOM": "18"
+  },
+  {
+    "STT": "412",
+    "MA_TUONG_DUONG": "08.0008.2045",
+    "TEN_DVKT_GIA": "Ôn châm [kim dài]",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "83300",
+    "NHOM": "18"
+  },
+  {
+    "STT": "413",
+    "MA_TUONG_DUONG": "08.0008.0224",
+    "TEN_DVKT_GIA": "Ôn châm [kim ngắn]",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "76300",
+    "NHOM": "18"
+  },
+  {
+    "STT": "414",
+    "MA_TUONG_DUONG": "22.0119.1368",
+    "TEN_DVKT_GIA": "Phân tích tế bào máu ngoại vi (bằng phương pháp thủ công)",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "39700",
+    "NHOM": "18"
+  },
+  {
+    "STT": "415",
+    "MA_TUONG_DUONG": "16.0216.1041",
+    "TEN_DVKT_GIA": "Phẫu thuật cắt phanh lưỡi",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "344200",
+    "NHOM": "18"
+  },
+  {
+    "STT": "416",
+    "MA_TUONG_DUONG": "16.0218.1041",
+    "TEN_DVKT_GIA": "Phẫu thuật cắt phanh má",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "344200",
+    "NHOM": "18"
+  },
+  {
+    "STT": "417",
+    "MA_TUONG_DUONG": "16.0217.1041",
+    "TEN_DVKT_GIA": "Phẫu thuật cắt phanh môi",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "344200",
+    "NHOM": "18"
+  },
+  {
+    "STT": "418",
+    "MA_TUONG_DUONG": "16.0035.1023",
+    "TEN_DVKT_GIA": "Phẫu thuật nạo túi lợi",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "89500",
+    "NHOM": "18"
+  },
+  {
+    "STT": "419",
+    "MA_TUONG_DUONG": "16.0201.1028",
+    "TEN_DVKT_GIA": "Phẫu thuật nhổ răng khôn mọc lệch có cắt thân",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "398600",
+    "NHOM": "18"
+  },
+  {
+    "STT": "420",
+    "MA_TUONG_DUONG": "16.0202.1028",
+    "TEN_DVKT_GIA": "Phẫu thuật nhổ răng khôn mọc lệch có cắt thân chia chân răng",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "398600",
+    "NHOM": "18"
+  },
+  {
+    "STT": "421",
+    "MA_TUONG_DUONG": "16.0200.1028",
+    "TEN_DVKT_GIA": "Phẫu thuật nhổ răng khôn mọc lệch hàm dưới",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "398600",
+    "NHOM": "18"
+  },
+  {
+    "STT": "422",
+    "MA_TUONG_DUONG": "16.0199.1028",
+    "TEN_DVKT_GIA": "Phẫu thuật nhổ răng khôn mọc lệch hàm trên",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "398600",
+    "NHOM": "18"
+  },
+  {
+    "STT": "423",
+    "MA_TUONG_DUONG": "16.0197.1036",
+    "TEN_DVKT_GIA": "Phẫu thuật nhổ răng lạc chỗ",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "369500",
+    "NHOM": "18"
+  },
+  {
+    "STT": "424",
+    "MA_TUONG_DUONG": "16.0198.1026",
+    "TEN_DVKT_GIA": "Phẫu thuật nhổ răng ngầm",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "239500",
+    "NHOM": "18"
+  },
+  {
+    "STT": "425",
+    "MA_TUONG_DUONG": "15.0097.0960",
+    "TEN_DVKT_GIA": "Phẫu thuật nội soi cầm máu mũi",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "2981800",
+    "NHOM": "18"
+  },
+  {
+    "STT": "426",
+    "MA_TUONG_DUONG": "16.0034.1038",
+    "TEN_DVKT_GIA": "Phẫu thuật vạt điều trị túi quanh răng",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "952100",
+    "NHOM": "18"
+  },
+  {
+    "STT": "427",
+    "MA_TUONG_DUONG": "16.0072.1018",
+    "TEN_DVKT_GIA": "Phục hồi cổ răng bằng Composite",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "369500",
+    "NHOM": "18"
+  },
+  {
+    "STT": "428",
+    "MA_TUONG_DUONG": "16.0075.1018",
+    "TEN_DVKT_GIA": "Phục hồi cổ răng bằng Composite có sử dụng laser",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "369500",
+    "NHOM": "18"
+  },
+  {
+    "STT": "429",
+    "MA_TUONG_DUONG": "16.0071.1018",
+    "TEN_DVKT_GIA": "Phục hồi cổ răng bằng GlassIonomer Cement",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "369500",
+    "NHOM": "18"
+  },
+  {
+    "STT": "430",
+    "MA_TUONG_DUONG": "16.0074.1018",
+    "TEN_DVKT_GIA": "Phục hồi cổ răng bằng GlassIonomer Cement (GIC) có sử dụng laser",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "369500",
+    "NHOM": "18"
+  },
+  {
+    "STT": "431",
+    "MA_TUONG_DUONG": "01.0218.0159",
+    "TEN_DVKT_GIA": "Rửa dạ dày cấp cứu",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "152000",
+    "NHOM": "18"
+  },
+  {
+    "STT": "432",
+    "MA_TUONG_DUONG": "02.0313.0159",
+    "TEN_DVKT_GIA": "Rửa dạ dày cấp cứu",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "152000",
+    "NHOM": "18"
+  },
+  {
+    "STT": "433",
+    "MA_TUONG_DUONG": "03.0168.0159",
+    "TEN_DVKT_GIA": "Rửa dạ dày cấp cứu",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "152000",
+    "NHOM": "18"
+  },
+  {
+    "STT": "434",
+    "MA_TUONG_DUONG": "08.0022.0252",
+    "TEN_DVKT_GIA": "Sắc thuốc thang",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "14000",
+    "NHOM": "18"
+  },
+  {
+    "STT": "435",
+    "MA_TUONG_DUONG": "13.0166.0715",
+    "TEN_DVKT_GIA": "Soi cổ tử cung",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "68100",
+    "NHOM": "18"
+  },
+  {
+    "STT": "436",
+    "MA_TUONG_DUONG": "03.2382.0313",
+    "TEN_DVKT_GIA": "Test lẩy da (Prick test) với các loại thuốc",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "394800",
+    "NHOM": "18"
+  },
+  {
+    "STT": "437",
+    "MA_TUONG_DUONG": "03.2383.0314",
+    "TEN_DVKT_GIA": "Test nội bì [chậm]",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "493800",
+    "NHOM": "18"
+  },
+  {
+    "STT": "438",
+    "MA_TUONG_DUONG": "11.0005.1148",
+    "TEN_DVKT_GIA": "Thay băng điều trị vết bỏng dưới 10% diện tích cơ thể ở người lớn [dưới 10% diện tích cơ thể]",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "262900",
+    "NHOM": "18"
+  },
+  {
+    "STT": "439",
+    "MA_TUONG_DUONG": "11.0010.1148",
+    "TEN_DVKT_GIA": "Thay băng điều trị vết bỏng dưới 10% diện tích cơ thể ở trẻ em [dưới 10% diện tích cơ thể",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "262900",
+    "NHOM": "18"
+  },
+  {
+    "STT": "440",
+    "MA_TUONG_DUONG": "11.0116.0199",
+    "TEN_DVKT_GIA": "Thay băng điều trị vết thương mạn tính",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "279500",
+    "NHOM": "18"
+  },
+  {
+    "STT": "441",
+    "MA_TUONG_DUONG": "15.0303.0200",
+    "TEN_DVKT_GIA": "Thay băng vết mổ [chiều dài  ≤ 15cm]",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "64300",
+    "NHOM": "18"
+  },
+  {
+    "STT": "442",
+    "MA_TUONG_DUONG": "15.0303.0205",
+    "TEN_DVKT_GIA": "Thay băng vết mổ [chiều dài > 50cm nhiễm trùng]",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "275600",
+    "NHOM": "18"
+  },
+  {
+    "STT": "443",
+    "MA_TUONG_DUONG": "15.0303.2047",
+    "TEN_DVKT_GIA": "Thay băng vết mổ [chiều dài trên 15cm đến 30 cm]",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "89500",
+    "NHOM": "18"
+  },
+  {
+    "STT": "444",
+    "MA_TUONG_DUONG": "15.0303.0204",
+    "TEN_DVKT_GIA": "Thay băng vết mổ [chiều dài từ 30 cm đến 50 cm nhiễm trùng]",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "193600",
+    "NHOM": "18"
+  },
+  {
+    "STT": "445",
+    "MA_TUONG_DUONG": "15.0303.0202",
+    "TEN_DVKT_GIA": "Thay băng vết mổ [chiều dài từ trên 30 cm đến 50 cm]",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "121400",
+    "NHOM": "18"
+  },
+  {
+    "STT": "446",
+    "MA_TUONG_DUONG": "03.3911.0200",
+    "TEN_DVKT_GIA": "Thay băng, cắt chỉ [chiều dài  ≤ 15cm]",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "64300",
+    "NHOM": "18"
+  },
+  {
+    "STT": "447",
+    "MA_TUONG_DUONG": "03.3826.0075",
+    "TEN_DVKT_GIA": "Thay băng, cắt chỉ vết mổ",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "40300",
+    "NHOM": "18"
+  },
+  {
+    "STT": "448",
+    "MA_TUONG_DUONG": "03.3826.0200",
+    "TEN_DVKT_GIA": "Thay băng, cắt chỉ vết mổ [chiều dài  ≤ 15cm]",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "64300",
+    "NHOM": "18"
+  },
+  {
+    "STT": "449",
+    "MA_TUONG_DUONG": "03.3826.0205",
+    "TEN_DVKT_GIA": "Thay băng, cắt chỉ vết mổ [chiều dài > 50cm nhiễm trùng]",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "275600",
+    "NHOM": "18"
+  },
+  {
+    "STT": "450",
+    "MA_TUONG_DUONG": "03.3826.2047",
+    "TEN_DVKT_GIA": "Thay băng, cắt chỉ vết mổ [chiều dài trên 15cm đến 30 cm]",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "89500",
+    "NHOM": "18"
+  },
+  {
+    "STT": "451",
+    "MA_TUONG_DUONG": "03.3826.0204",
+    "TEN_DVKT_GIA": "Thay băng, cắt chỉ vết mổ [chiều dài từ 30 cm đến 50 cm nhiễm trùng]",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "193600",
+    "NHOM": "18"
+  },
+  {
+    "STT": "452",
+    "MA_TUONG_DUONG": "03.3826.0203",
+    "TEN_DVKT_GIA": "Thay băng, cắt chỉ vết mổ [chiều dài từ trên 15 cm đến 30 cm nhiễm trùng]",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "148600",
+    "NHOM": "18"
+  },
+  {
+    "STT": "453",
+    "MA_TUONG_DUONG": "03.3826.0202",
+    "TEN_DVKT_GIA": "Thay băng, cắt chỉ vết mổ [chiều dài từ trên 30 cm đến 50 cm]",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "121400",
+    "NHOM": "18"
+  },
+  {
+    "STT": "454",
+    "MA_TUONG_DUONG": "01.0164.0210",
+    "TEN_DVKT_GIA": "Thông bàng quang",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "101800",
+    "NHOM": "18"
+  },
+  {
+    "STT": "455",
+    "MA_TUONG_DUONG": "03.0133.0210",
+    "TEN_DVKT_GIA": "Thông tiểu",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "101800",
+    "NHOM": "18"
+  },
+  {
+    "STT": "456",
+    "MA_TUONG_DUONG": "01.0222.0211",
+    "TEN_DVKT_GIA": "Thụt giữ",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "92400",
+    "NHOM": "18"
+  },
+  {
+    "STT": "457",
+    "MA_TUONG_DUONG": "01.0221.0211",
+    "TEN_DVKT_GIA": "Thụt tháo",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "92400",
+    "NHOM": "18"
+  },
+  {
+    "STT": "458",
+    "MA_TUONG_DUONG": "02.0338.0211",
+    "TEN_DVKT_GIA": "Thụt tháo chuẩn bị sạch đại tràng",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "92400",
+    "NHOM": "18"
+  },
+  {
+    "STT": "459",
+    "MA_TUONG_DUONG": "02.0339.0211",
+    "TEN_DVKT_GIA": "Thụt tháo phân",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "92400",
+    "NHOM": "18"
+  },
+  {
+    "STT": "460",
+    "MA_TUONG_DUONG": "08.0006.0271",
+    "TEN_DVKT_GIA": "Thủy châm",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "77100",
+    "NHOM": "18"
+  },
+  {
+    "STT": "461",
+    "MA_TUONG_DUONG": "08.0327.0271",
+    "TEN_DVKT_GIA": "Thuỷ châm điều trị cảm mạo, cúm",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "77100",
+    "NHOM": "18"
+  },
+  {
+    "STT": "462",
+    "MA_TUONG_DUONG": "03.0549.0271",
+    "TEN_DVKT_GIA": "Thuỷ châm điều trị đau đầu, đau nửa đầu",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "77100",
+    "NHOM": "18"
+  },
+  {
+    "STT": "463",
+    "MA_TUONG_DUONG": "08.0357.0271",
+    "TEN_DVKT_GIA": "Thuỷ châm điều trị đau dây thần kinh liên sườn",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "77100",
+    "NHOM": "18"
+  },
+  {
+    "STT": "464",
+    "MA_TUONG_DUONG": "08.0359.0271",
+    "TEN_DVKT_GIA": "Thuỷ châm điều trị đau dây V",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "77100",
+    "NHOM": "18"
+  },
+  {
+    "STT": "465",
+    "MA_TUONG_DUONG": "08.0376.0271",
+    "TEN_DVKT_GIA": "Thuỷ châm điều trị đau do thoái hóa khớp",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "77100",
+    "NHOM": "18"
+  },
+  {
+    "STT": "466",
+    "MA_TUONG_DUONG": "08.0360.0271",
+    "TEN_DVKT_GIA": "Thuỷ châm điều trị đau liệt tứ chi do chấn thương cột sống",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "77100",
+    "NHOM": "18"
+  },
+  {
+    "STT": "467",
+    "MA_TUONG_DUONG": "08.0378.0271",
+    "TEN_DVKT_GIA": "Thuỷ châm điều trị đau lưng",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "77100",
+    "NHOM": "18"
+  },
+  {
+    "STT": "468",
+    "MA_TUONG_DUONG": "08.0352.0271",
+    "TEN_DVKT_GIA": "Thuỷ châm điều trị đau vai gáy",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "77100",
+    "NHOM": "18"
+  },
+  {
+    "STT": "469",
+    "MA_TUONG_DUONG": "08.0325.0271",
+    "TEN_DVKT_GIA": "Thuỷ châm điều trị hội chứng stress",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "77100",
+    "NHOM": "18"
+  },
+  {
+    "STT": "470",
+    "MA_TUONG_DUONG": "08.0322.0271",
+    "TEN_DVKT_GIA": "Thuỷ châm điều trị hội chứng thắt lưng- hông",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "77100",
+    "NHOM": "18"
+  },
+  {
+    "STT": "471",
+    "MA_TUONG_DUONG": "08.0351.0271",
+    "TEN_DVKT_GIA": "Thuỷ châm điều trị hội chứng tiền đình",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "77100",
+    "NHOM": "18"
+  },
+  {
+    "STT": "472",
+    "MA_TUONG_DUONG": "08.0347.0271",
+    "TEN_DVKT_GIA": "Thuỷ châm điều trị hội chứng tiền mãn kinh",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "77100",
+    "NHOM": "18"
+  },
+  {
+    "STT": "473",
+    "MA_TUONG_DUONG": "08.0365.0271",
+    "TEN_DVKT_GIA": "Thuỷ châm điều trị liệt chi trên",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "77100",
+    "NHOM": "18"
+  },
+  {
+    "STT": "474",
+    "MA_TUONG_DUONG": "08.0356.0271",
+    "TEN_DVKT_GIA": "Thuỷ châm điều trị liệt dây thần kinh VII ngoại biên",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "77100",
+    "NHOM": "18"
+  },
+  {
+    "STT": "475",
+    "MA_TUONG_DUONG": "08.0366.0271",
+    "TEN_DVKT_GIA": "Thuỷ châm điều trị liệt hai chi dưới",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "77100",
+    "NHOM": "18"
+  },
+  {
+    "STT": "476",
+    "MA_TUONG_DUONG": "08.0330.0271",
+    "TEN_DVKT_GIA": "Thuỷ châm điều trị liệt nửa người do tai biến mạch máu não",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "77100",
+    "NHOM": "18"
+  },
+  {
+    "STT": "477",
+    "MA_TUONG_DUONG": "08.0324.0271",
+    "TEN_DVKT_GIA": "Thuỷ châm điều trị mất ngủ",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "77100",
+    "NHOM": "18"
+  },
+  {
+    "STT": "478",
+    "MA_TUONG_DUONG": "08.0364.0271",
+    "TEN_DVKT_GIA": "Thuỷ châm điều trị rối loạn cảm giác đầu chi",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "77100",
+    "NHOM": "18"
+  },
+  {
+    "STT": "479",
+    "MA_TUONG_DUONG": "08.0349.0271",
+    "TEN_DVKT_GIA": "Thuỷ châm điều trị rối loạn kinh nguyệt",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "77100",
+    "NHOM": "18"
+  },
+  {
+    "STT": "480",
+    "MA_TUONG_DUONG": "08.0355.0271",
+    "TEN_DVKT_GIA": "Thuỷ châm điều trị thiểu năng tuần hoàn não mạn tính",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "77100",
+    "NHOM": "18"
+  },
+  {
+    "STT": "481",
+    "MA_TUONG_DUONG": "08.0348.0271",
+    "TEN_DVKT_GIA": "Thuỷ châm điều trị thống kinh",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "77100",
+    "NHOM": "18"
+  },
+  {
+    "STT": "482",
+    "MA_TUONG_DUONG": "08.0377.0271",
+    "TEN_DVKT_GIA": "Thuỷ châm điều trị viêm quanh khớp vai",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "77100",
+    "NHOM": "18"
+  },
+  {
+    "STT": "483",
+    "MA_TUONG_DUONG": "08.0375.0271",
+    "TEN_DVKT_GIA": "Thuỷ châm hỗ trợ điều trị viêm khớp dạng thấp",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "77100",
+    "NHOM": "18"
+  },
+  {
+    "STT": "484",
+    "MA_TUONG_DUONG": "03.2389.0212",
+    "TEN_DVKT_GIA": "Tiêm bắp thịt",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "15100",
+    "NHOM": "18"
+  },
+  {
+    "STT": "485",
+    "MA_TUONG_DUONG": "03.2388.0212",
+    "TEN_DVKT_GIA": "Tiêm dưới da",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "15100",
+    "NHOM": "18"
+  },
+  {
+    "STT": "486",
+    "MA_TUONG_DUONG": "03.2390.0212",
+    "TEN_DVKT_GIA": "Tiêm tĩnh mạch",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "15100",
+    "NHOM": "18"
+  },
+  {
+    "STT": "487",
+    "MA_TUONG_DUONG": "03.2387.0212",
+    "TEN_DVKT_GIA": "Tiêm trong da",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "15100",
+    "NHOM": "18"
+  },
+  {
+    "STT": "488",
+    "MA_TUONG_DUONG": "22.0138.1362",
+    "TEN_DVKT_GIA": "Tìm ký sinh trùng sốt rét trong máu (bằng phương pháp thủ công)",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "39700",
+    "NHOM": "18"
+  },
+  {
+    "STT": "489",
+    "MA_TUONG_DUONG": "16.0226.1035",
+    "TEN_DVKT_GIA": "Trám bít hố rãnh bằng GlassIonomer Cement",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "245500",
+    "NHOM": "18"
+  },
+  {
+    "STT": "490",
+    "MA_TUONG_DUONG": "16.0225.1035",
+    "TEN_DVKT_GIA": "Trám bít hố rãnh bằng nhựa Sealant",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "245500",
+    "NHOM": "18"
+  },
+  {
+    "STT": "491",
+    "MA_TUONG_DUONG": "16.0223.1035",
+    "TEN_DVKT_GIA": "Trám bít hố rãnh với Composite hóa trùng hợp",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "245500",
+    "NHOM": "18"
+  },
+  {
+    "STT": "492",
+    "MA_TUONG_DUONG": "16.0224.1035",
+    "TEN_DVKT_GIA": "Trám bít hố rãnh với Composite quang trùng hợp",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "245500",
+    "NHOM": "18"
+  },
+  {
+    "STT": "493",
+    "MA_TUONG_DUONG": "16.0222.1035",
+    "TEN_DVKT_GIA": "Trám bít hố rãnh với GlassIonomer Cement quang trùng hợp",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "245500",
+    "NHOM": "18"
+  },
+  {
+    "STT": "494",
+    "MA_TUONG_DUONG": "15.0304.0505",
+    "TEN_DVKT_GIA": "Trích áp xe nhỏ vùng đầu cổ",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "218500",
+    "NHOM": "18"
+  },
+  {
+    "STT": "495",
+    "MA_TUONG_DUONG": "13.0054.0600",
+    "TEN_DVKT_GIA": "Trích áp xe tầng sinh môn",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "873000",
+    "NHOM": "18"
+  },
+  {
+    "STT": "496",
+    "MA_TUONG_DUONG": "03.3406.0600",
+    "TEN_DVKT_GIA": "Trích áp xe tầng sinh môn",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "873000",
+    "NHOM": "18"
+  },
+  {
+    "STT": "497",
+    "MA_TUONG_DUONG": "13.0151.0601",
+    "TEN_DVKT_GIA": "Trích áp xe tuyến Bartholin",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "951600",
+    "NHOM": "18"
+  },
+  {
+    "STT": "498",
+    "MA_TUONG_DUONG": "13.0163.0602",
+    "TEN_DVKT_GIA": "Trích áp xe vú",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "251500",
+    "NHOM": "18"
+  },
+  {
+    "STT": "499",
+    "MA_TUONG_DUONG": "03.3910.0505",
+    "TEN_DVKT_GIA": "Trích hạch viêm mủ",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "218500",
+    "NHOM": "18"
+  },
+  {
+    "STT": "500",
+    "MA_TUONG_DUONG": "03.2119.0505",
+    "TEN_DVKT_GIA": "Trích nhọt ống tai ngoài",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "218500",
+    "NHOM": "18"
+  },
+  {
+    "STT": "501",
+    "MA_TUONG_DUONG": "03.3909.0505",
+    "TEN_DVKT_GIA": "Trích rạch áp xe nhỏ",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "218500",
+    "NHOM": "18"
+  },
+  {
+    "STT": "502",
+    "MA_TUONG_DUONG": "15.0050.0994",
+    "TEN_DVKT_GIA": "Trích rạch màng nhĩ",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "69300",
+    "NHOM": "18"
+  },
+  {
+    "STT": "503",
+    "MA_TUONG_DUONG": "13.0153.0603",
+    "TEN_DVKT_GIA": "Trích rạch màng trinh do ứ máu kinh",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "885400",
+    "NHOM": "18"
+  },
+  {
+    "STT": "504",
+    "MA_TUONG_DUONG": "03.2391.0215",
+    "TEN_DVKT_GIA": "Truyền tĩnh mạch",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "25100",
+    "NHOM": "18"
+  },
+  {
+    "STT": "505",
+    "MA_TUONG_DUONG": "08.0483.0280",
+    "TEN_DVKT_GIA": "Xoa bóp bấm huyệt bằng tay",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "76000",
+    "NHOM": "18"
+  },
+  {
+    "STT": "506",
+    "MA_TUONG_DUONG": "08.0398.0280",
+    "TEN_DVKT_GIA": "Xoa bóp bấm huyệt điều trị choáng, ngất",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "76000",
+    "NHOM": "18"
+  },
+  {
+    "STT": "507",
+    "MA_TUONG_DUONG": "08.0397.0280",
+    "TEN_DVKT_GIA": "Xoa bóp bấm huyệt điều trị cứng khớp chi dưới",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "76000",
+    "NHOM": "18"
+  },
+  {
+    "STT": "508",
+    "MA_TUONG_DUONG": "08.0396.0280",
+    "TEN_DVKT_GIA": "Xoa bóp bấm huyệt điều trị cứng khớp chi trên",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "76000",
+    "NHOM": "18"
+  },
+  {
+    "STT": "509",
+    "MA_TUONG_DUONG": "08.0408.0280",
+    "TEN_DVKT_GIA": "Xoa bóp bấm huyệt điều trị đau đầu, đau nửa đầu",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "76000",
+    "NHOM": "18"
+  },
+  {
+    "STT": "510",
+    "MA_TUONG_DUONG": "08.0429.0280",
+    "TEN_DVKT_GIA": "Xoa bóp bấm huyệt điều trị đau do thoái hóa khớp",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "76000",
+    "NHOM": "18"
+  },
+  {
+    "STT": "511",
+    "MA_TUONG_DUONG": "08.0430.0280",
+    "TEN_DVKT_GIA": "Xoa bóp bấm huyệt điều trị đau lưng",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "76000",
+    "NHOM": "18"
+  },
+  {
+    "STT": "512",
+    "MA_TUONG_DUONG": "08.0425.0280",
+    "TEN_DVKT_GIA": "Xoa bóp bấm huyệt điều trị đau thần kinh liên sườn",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "76000",
+    "NHOM": "18"
+  },
+  {
+    "STT": "513",
+    "MA_TUONG_DUONG": "08.0410.0280",
+    "TEN_DVKT_GIA": "Xoa bóp bấm huyệt điều trị hội chứng stress",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "76000",
+    "NHOM": "18"
+  },
+  {
+    "STT": "514",
+    "MA_TUONG_DUONG": "08.0392.0280",
+    "TEN_DVKT_GIA": "Xoa bóp bấm huyệt điều trị hội chứng thắt lưng- hông",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "76000",
+    "NHOM": "18"
+  },
+  {
+    "STT": "515",
+    "MA_TUONG_DUONG": "08.0419.0280",
+    "TEN_DVKT_GIA": "Xoa bóp bấm huyệt điều trị hội chứng tiền đình",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "76000",
+    "NHOM": "18"
+  },
+  {
+    "STT": "516",
+    "MA_TUONG_DUONG": "08.0432.0280",
+    "TEN_DVKT_GIA": "Xoa bóp bấm huyệt điều trị hội chứng vai gáy",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "76000",
+    "NHOM": "18"
+  },
+  {
+    "STT": "517",
+    "MA_TUONG_DUONG": "08.0424.0280",
+    "TEN_DVKT_GIA": "Xoa bóp bấm huyệt điều trị huyết áp thấp",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "76000",
+    "NHOM": "18"
+  },
+  {
+    "STT": "518",
+    "MA_TUONG_DUONG": "08.0390.0280",
+    "TEN_DVKT_GIA": "Xoa bóp bấm huyệt điều trị liệt chi dưới",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "76000",
+    "NHOM": "18"
+  },
+  {
+    "STT": "519",
+    "MA_TUONG_DUONG": "08.0389.0280",
+    "TEN_DVKT_GIA": "Xoa bóp bấm huyệt điều trị liệt chi trên",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "76000",
+    "NHOM": "18"
+  },
+  {
+    "STT": "520",
+    "MA_TUONG_DUONG": "08.0414.0280",
+    "TEN_DVKT_GIA": "Xoa bóp bấm huyệt điều trị liệt dây thần kinh số VII ngoại biên",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "76000",
+    "NHOM": "18"
+  },
+  {
+    "STT": "521",
+    "MA_TUONG_DUONG": "08.0402.0280",
+    "TEN_DVKT_GIA": "Xoa bóp bấm huyệt điều trị liệt do bệnh của cơ",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "76000",
+    "NHOM": "18"
+  },
+  {
+    "STT": "522",
+    "MA_TUONG_DUONG": "08.0391.0280",
+    "TEN_DVKT_GIA": "Xoa bóp bấm huyệt điều trị liệt nửa người do tai biến mạch máu não",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "76000",
+    "NHOM": "18"
+  },
+  {
+    "STT": "523",
+    "MA_TUONG_DUONG": "08.0446.0280",
+    "TEN_DVKT_GIA": "Xoa bóp bấm huyệt điều trị liệt tứ chi do chấn thương cột sống",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "76000",
+    "NHOM": "18"
+  },
+  {
+    "STT": "524",
+    "MA_TUONG_DUONG": "08.0409.0280",
+    "TEN_DVKT_GIA": "Xoa bóp bấm huyệt điều trị mất ngủ",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "76000",
+    "NHOM": "18"
+  },
+  {
+    "STT": "525",
+    "MA_TUONG_DUONG": "08.0434.0280",
+    "TEN_DVKT_GIA": "Xoa bóp bấm huyệt điều trị rối loạn cảm giác đầu chi",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "76000",
+    "NHOM": "18"
+  },
+  {
+    "STT": "526",
+    "MA_TUONG_DUONG": "08.0445.0280",
+    "TEN_DVKT_GIA": "Xoa bóp bấm huyệt điều trị rối loạn chức năng vận động do chấn thương sọ não",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "76000",
+    "NHOM": "18"
+  },
+  {
+    "STT": "527",
+    "MA_TUONG_DUONG": "08.0411.0280",
+    "TEN_DVKT_GIA": "Xoa bóp bấm huyệt điều trị thiểu năng tuần hoàn não mạn tính",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "76000",
+    "NHOM": "18"
+  },
+  {
+    "STT": "528",
+    "MA_TUONG_DUONG": "08.0413.0280",
+    "TEN_DVKT_GIA": "Xoa bóp bấm huyệt điều trị tổn thương dây thần kinh V",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "76000",
+    "NHOM": "18"
+  },
+  {
+    "STT": "529",
+    "MA_TUONG_DUONG": "08.0412.0280",
+    "TEN_DVKT_GIA": "Xoa bóp bấm huyệt điều trị tổn thương rễ, đám rối và dây thần kinh",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "76000",
+    "NHOM": "18"
+  },
+  {
+    "STT": "530",
+    "MA_TUONG_DUONG": "08.0428.0280",
+    "TEN_DVKT_GIA": "Xoa bóp bấm huyệt điều trị viêm khớp dạng thấp",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "76000",
+    "NHOM": "18"
+  },
+  {
+    "STT": "531",
+    "MA_TUONG_DUONG": "08.0431.0280",
+    "TEN_DVKT_GIA": "Xoa bóp bấm huyệt điều trị viêm quanh khớp vai",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "76000",
+    "NHOM": "18"
+  },
+  {
+    "STT": "532",
+    "MA_TUONG_DUONG": "08.0423.0280",
+    "TEN_DVKT_GIA": "Xoa bóp bấm huyệt hỗ trợ điều trị tăng huyết áp",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "76000",
+    "NHOM": "18"
+  },
+  {
+    "STT": "533",
+    "MA_TUONG_DUONG": "08.0020.0284",
+    "TEN_DVKT_GIA": "Xông hơi thuốc",
+    "DON_VI_TINH": "Lần",
+    "DON_GIA": "50300",
+    "NHOM": "18"
+  }
+]
