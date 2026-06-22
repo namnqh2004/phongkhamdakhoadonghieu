@@ -19,17 +19,17 @@ const Subscribe = () => {
                 />
               </div>
               <h3 className='be-vietnam-pro-extrabold text-2xl sm:text-3xl flex-1 md:text-[32px] text-white leading-[38px]'>
-                Since 2007 We’re working Medical{' '}
-                <br className='hidden md:block' /> group more than 1200+ Patient
+                Trang thiết bị Y tế hiện đại{' '}
+                <br className='hidden md:block' /> Hỗ trợ chẩn đoán chính xác – điều trị hiệu quả
               </h3>
             </div>
             <div
               data-aos='fade-up'
               data-aos-duration='1000'
             >
-              <Link to={'/contact'}>
+              <Link to={'/lien-he'}>
                 <button className='primary-btn mt-3 !border-white'>
-                  Contact Us
+                  Liên hệ ngay
                   <GoArrowRight
                     size={'22'}
                     className='-rotate-45'

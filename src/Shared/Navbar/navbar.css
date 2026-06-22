@@ -143,10 +143,9 @@
 }
 
 .offcanvas_contact-title h5 {
-  font-size: 24px;
+  font-size: 22px;
   color: #ffffff;
   font-weight: 400;
-  font-family: 'be-vietnam-pro-regular', sans-serif;
   margin-bottom: 30px;
   display: inline-block;
 }
@@ -158,7 +157,6 @@
 
 .offcanvas_contact-info ul li a {
   color: #ffffff;
-  font-family: 'be-vietnam-pro-regular', sans-serif;;
 }
 
 .offcanvas_contact-info ul li svg {
@@ -169,7 +167,6 @@
   font-size: 24px;
   color: #ffffff;
   font-weight: 400;
-  font-family: 'be-vietnam-pro-regular', sans-serif;;
   margin-bottom: 30px;
   display: inline-block;
 }

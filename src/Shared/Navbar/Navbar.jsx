@@ -243,19 +243,16 @@ const Navbar = () => {
           <div className="main-menu-mobile lg:none"></div>
           <div className="offcanvas_contact-info">
             <div className="offcanvas_contact-title">
-              <h5>Liên Hệ Với Chúng Tôi</h5>
+              <h5 className="be-vietnam-pro-bold">Liên Hệ Với Chúng Tôi</h5>
             </div>
-            <ul>
+            <ul className="be-vietnam-pro-regular text-lg">
               <li>
-                <MdLocationPin />
                 <Link to={"/"}>Xóm Đông Mỹ, xã Đông Hiếu, tỉnh Nghệ An</Link>
               </li>
               <li>
-                <FaEnvelope />
                 <Link to={"/"}>phongkhamdkdonghieu@gmail.com</Link>
               </li>
               <li>
-                <FaPhoneAlt />
                 <Link to={"/"}>0975 161 115</Link>
               </li>
             </ul>
@@ -348,26 +345,26 @@ const Navbar = () => {
 
           {/* Bên phải: Hotline */}
           <div className="flex items-center">
-  <a
-    href="tel:0975161115"
-    className="flex items-center gap-2 bg-white text-green-700 px-4 py-2 rounded-full shadow-lg hover:scale-105 transition-all duration-300 font-bold"
-  >
-    <svg
-      className="w-5 h-5 animate-pulse"
-      fill="none"
-      stroke="currentColor"
-      strokeWidth="2.5"
-      viewBox="0 0 24 24"
-    >
-      <path
-        strokeLinecap="round"
-        strokeLinejoin="round"
-        d="M3 5a2 2 0 012-2h3.28a1 1 0 01.94.725l.548 2.2a1 1 0 01-.321.988l-1.305.98a10.582 10.582 0 004.872 4.872l.98-1.305a1 1 0 01.988-.321l2.2.548a1 1 0 01.725.94V19a2 2 0 01-2 2h-1C9.716 21 3 14.284 3 6V5z"
-      />
-    </svg>
-    <span>Hotline: 0975 161 115</span>
-  </a>
-</div>
+            <a
+              href="tel:0975161115"
+              className="flex items-center gap-2 bg-white text-green-700 px-4 py-2 rounded-full shadow-lg hover:scale-105 transition-all duration-300 font-bold"
+            >
+              <svg
+                className="w-5 h-5 animate-pulse"
+                fill="none"
+                stroke="currentColor"
+                strokeWidth="2.5"
+                viewBox="0 0 24 24"
+              >
+                <path
+                  strokeLinecap="round"
+                  strokeLinejoin="round"
+                  d="M3 5a2 2 0 012-2h3.28a1 1 0 01.94.725l.548 2.2a1 1 0 01-.321.988l-1.305.98a10.582 10.582 0 004.872 4.872l.98-1.305a1 1 0 01.988-.321l2.2.548a1 1 0 01.725.94V19a2 2 0 01-2 2h-1C9.716 21 3 14.284 3 6V5z"
+                />
+              </svg>
+              <span>Hotline: 0975 161 115</span>
+            </a>
+          </div>
         </div>
       </div>
 
@@ -385,7 +382,7 @@ const Navbar = () => {
               <div className="header-main-menu text-center">
                 <nav className="main-menu-content">
                   <ul>
-                    <li className="has-dropdown">
+                    <li>
                       <Link to={"/"} className="active">
                         Trang chủ
                       </Link>
@@ -438,13 +435,13 @@ const Navbar = () => {
                       </ul> */}
                     </li>
                     <li>
-                      <Link to={"/about"}>Giới thiệu</Link>
+                      <Link to={"/gioi-thieu"}>Giới thiệu</Link>
                     </li>
                     <li className="has-dropdown">
                       <Link to={"/"}>Dịch vụ</Link>
                       <ul className="submenu">
                         <li>
-                          <Link to={"/priceList"}>Bảng Giá</Link>
+                          <Link to={"/bang-gia"}>Bảng Giá</Link>
                         </li>
                         {/* <li>
                           <Link to={"/about"}>about us</Link>
@@ -492,8 +489,8 @@ const Navbar = () => {
                     <li className="has-dropdown">
                       <Link to={"/"}>Chuyên khoa</Link>
                       <ul className="submenu">
-                       <li>
-                          <Link to={"/team"}>Bác sĩ</Link>
+                        <li>
+                          <Link to={"/bac-si"}>Bác sĩ</Link>
                         </li>
                         {/* <li>
                           <Link to={"/blog_left_sidebar"}>
@@ -511,7 +508,7 @@ const Navbar = () => {
                       </ul>
                     </li>
                     <li>
-                      <Link to={"/contact"}>Liên hệ</Link>
+                      <Link to={"/lien-he"}>Liên hệ</Link>
                     </li>
                   </ul>
                 </nav>
@@ -525,7 +522,7 @@ const Navbar = () => {
                   </button>
                 </div>
                 <div className="header-btn hidden lg:block">
-                  <Link to={"/appointment"}>
+                  <Link to={"/dat-lich-kham"}>
                     Đặt lịch khám<span></span>
                     <span></span>
                     <span></span>

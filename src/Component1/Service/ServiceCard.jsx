@@ -37,7 +37,7 @@ const ServiceCard = ({
           <h6 className='be-vietnam-pro-regular font-medium text-white uppercase'>
             {serviceSubTitle}
           </h6>
-          <h4 className='be-vietnam-pro-regular font-medium text-xl sm:text-2xl 2xl:text-[28px] text-white mt-1'>
+          <h4 className='be-vietnam-pro-bold font-medium text-xl sm:text-2xl 2xl:text-[28px] text-white mt-1'>
             {serviceTitle}
           </h4>
         </div>

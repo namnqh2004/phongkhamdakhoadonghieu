@@ -7,9 +7,9 @@ const AppointmentInner = () => {
   return (
     <>
       <BreadCrumb
-        breadCrumbTitle={'Book Appointment'}
+        breadCrumbTitle={'Đặt lịch khám'}
         breadCrumbIcon={<FaArrowRightLong />}
-        breadCrumbLink={'Appointment'}
+        breadCrumbLink={'Đặt lịch khám'}
       />
       <Appointment />
       <Subscribe />

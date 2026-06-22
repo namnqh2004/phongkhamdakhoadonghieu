@@ -135,11 +135,11 @@ const Banner = () => {
                 {/* Nội dung */}
                 <div>
                   <div className="inline-flex items-center rounded-full bg-green-100 text-green-700 px-2 py-0.5 text-[10px] font-bold uppercase tracking-wide mb-1">
-                    Chứng nhận
+                    Đạt chuẩn Bộ Y Tế
                   </div>
 
                   <h4 className="text-sm sm:text-base font-extrabold text-gray-900 leading-tight">
-                    Đạt chuẩn Bộ Y Tế
+                    An toàn & Chuyên nghiệp
                   </h4>
                 </div>
               </div>

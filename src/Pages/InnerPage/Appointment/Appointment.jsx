@@ -83,7 +83,7 @@ const Appoinment = () => {
       </div>
       <div className='text-center mb-12'>
         <h1 className='font-AlbertSans font-bold uppercase text-HeadingColor-0 text-xl leading-[30px] sm:text-3xl sm:leading-[40px] md:text-[40px] md:leading-[50px] lg:text-[50px] lg:leading-[60px] xl:text-[52px] xl:leading-[62px] 2xl:text-[60px] 2xl:leading-[70px]'>
-          Make Appointment
+          Đặt lịch hẹn
         </h1>
       </div>
       <div className='bg-white bg-opacity-20 border-2 border-white border-opacity-80 rounded-[30px] py-[120px]'>
@@ -137,10 +137,10 @@ const Appoinment = () => {
                 />
               </div>
               <h5 className='font-AlbertSans font-medium text-sm sm:text-base text-PrimaryColor-0 uppercase mb-4'>
-                FINANCE CONSULTING
+                Đặt lịch khám trực tuyến
               </h5>
               <h1 className='font-AlbertSans font-bold text-HeadingColor-0 text-[16px] leading-[23px] sm:text-[22px] sm:leading-[35px] md:text-[30px] md:leading-[35px] lg:text-[28px] lg:leading-[35px] xl:text-[32px] xl:leading-[39px] 2xl:text-[32px] 2xl:leading-[39px]'>
-                Make an Online Appoinemnt <br /> Booking For Treatment Patients
+                ĐẶT LỊCH KHÁM NGAY HÔM NAY ĐỂ ĐƯỢC TƯ VẤN VÀ HỖ TRỢ TỐT NHẤT
               </h1>
               <form
                 action='#'
@@ -153,7 +153,7 @@ const Appoinment = () => {
                       type='text'
                       name='name'
                       id='name'
-                      placeholder='Enter Name*'
+                      placeholder='Nhập tên*'
                       required
                       className='font-AlbertSans text-HeadingColor-0 placeholder:text-HeadingColor-0 font-light bg-transparent border border-Secondarycolor-0 border-opacity-45 rounded-xl py-2 px-6 h-[60px] w-full focus:outline-PrimaryColor-0'
                     />
@@ -167,7 +167,7 @@ const Appoinment = () => {
                       type='email'
                       name='email'
                       id='email'
-                      placeholder='Enter E-Mail*'
+                      placeholder='Nhập email*'
                       required
                       className='font-AlbertSans text-HeadingColor-0 placeholder:text-HeadingColor-0 font-light bg-transparent border border-Secondarycolor-0 border-opacity-45 rounded-xl py-2 px-6 h-[60px] w-full focus:outline-PrimaryColor-0'
                     />
@@ -187,7 +187,7 @@ const Appoinment = () => {
                       value='subject'
                       className='text-HeadingColor-0'
                     >
-                      Your Subject
+                      Chủ đề của bạn
                     </option>
                     <option
                       value='subject2'
@@ -199,13 +199,13 @@ const Appoinment = () => {
                       value='subject3'
                       className='text-HeadingColor-0'
                     >
-                      Arabic
+                      Tiếng Ả Rập
                     </option>
                     <option
                       value='subject4'
                       className='text-HeadingColor-0'
                     >
-                      China
+                      Trung Quốc
                     </option>
                   </select>
                   <div className='relative inline-block'>
@@ -213,7 +213,7 @@ const Appoinment = () => {
                       type='text'
                       name='number'
                       id='number'
-                      placeholder='Enter Number*'
+                      placeholder='Nhập số điện thoại*'
                       required
                       className='font-AlbertSans text-HeadingColor-0 placeholder:text-HeadingColor-0 font-light bg-transparent border border-Secondarycolor-0 border-opacity-45 rounded-xl py-2 px-6 h-[60px] w-full focus:outline-PrimaryColor-0'
                     />
@@ -226,7 +226,7 @@ const Appoinment = () => {
                 <textarea
                   name='message'
                   id='message'
-                  placeholder='Write a short meassage...'
+                  placeholder='Viết tin nhắn ngắn...'
                   className='font-AlbertSans text-HeadingColor-0 placeholder:text-HeadingColor-0 font-light bg-transparent border border-Secondarycolor-0 border-opacity-45 rounded-2xl py-2 px-6 h-[150px] w-full focus:outline-PrimaryColor-0 resize-none'
                 ></textarea>
                 <div className='inline-block mt-2'>
@@ -234,7 +234,7 @@ const Appoinment = () => {
                     type='submit'
                     className='primary-btn'
                   >
-                    Send Now
+                    Gửi ngay
                     <GoArrowRight
                       size={'22'}
                       className='-rotate-45'

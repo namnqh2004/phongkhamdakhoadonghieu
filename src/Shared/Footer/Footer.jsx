@@ -151,6 +151,13 @@ const Footer = () => {
               <br />
               06:30 - 17:30
             </p>
+            <h5 className='be-vietnam-pro-regular font-medium text-white text-xl mt-6 mb-1'>
+              Giấy phép hoạt động
+            </h5>
+              
+            <p className='text-TextColor3-0'>
+              1092/NA-GPHĐ cấp ngày 15/12/2025
+            </p>
           </div>
         </div>
 
@@ -185,8 +192,8 @@ const Footer = () => {
             </li>
           </ul>
 
-          <p className='be-vietnam-pro-regular text-TextColor3-0'>
-            NGUYỄN QUANG HOÀI NAM - CNTT PKĐK Đông Hiếu © 2026. All rights reserved.
+          <p className='be-vietnam-pro-regular text-sm text-TextColor3-0'>
+            Nguyễn Quang Hoài Nam - CNTT PKĐK Đông Hiếu © 2026. All rights reserved.
           </p>
         </div>
       </div>

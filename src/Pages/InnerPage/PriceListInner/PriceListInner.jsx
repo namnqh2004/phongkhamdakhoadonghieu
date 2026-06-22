@@ -1,7 +1,7 @@
 import { useEffect, useMemo, useState } from "react";
 import PropTypes from "prop-types";
 import {
-//   FaArrowRightLong,
+  //   FaArrowRightLong,
   FaChevronDown,
   FaMagnifyingGlass,
 } from "react-icons/fa6";
@@ -185,7 +185,7 @@ const PriceListInner = () => {
               </h2>
 
               <p className="mt-4 text-sm md:text-lg text-white/90 max-w-3xl mx-auto">
-                Tra cứu nhanh hơn 600 dịch vụ y tế (Áp dụng cho đối tượng có thẻ BHYT)
+                Tra cứu nhanh hơn 600 dịch vụ y tế
               </p>
 
               <div className="mt-8 grid grid-cols-1 gap-4 md:grid-cols-3">
@@ -201,10 +201,9 @@ const PriceListInner = () => {
                   </div>
                 </div>
 
-                <div className="rounded-3xl bg-white/10 p-5">
-                  <div className="text-3xl md:text-4xl font-semibold">---</div>
-                  <div className="mt-2 text-sm text-white/90">
-                    Giá BHYT
+                <div className="rounded-3xl bg-white/10 p-5 flex items-center justify-center text-center min-h-[112px]">
+                  <div className="be-vietnam-pro-bold text-white/90">
+                    Áp dụng cho đối tượng có thẻ BHYT
                   </div>
                 </div>
               </div>
