@@ -181,7 +181,7 @@ const PriceListInner = () => {
               </span>
 
               <h2 className="mt-6 md:mt-8 text-3xl md:text-5xl font-bold">
-                Bảng Giá Dịch Vụ Khám Bệnh Chữa Bệnh
+                Bảng Giá Dịch Vụ Khám Bệnh Chữa Bệnh (BHYT)
               </h2>
 
               <p className="mt-4 text-sm md:text-lg text-white/90 max-w-3xl mx-auto">
