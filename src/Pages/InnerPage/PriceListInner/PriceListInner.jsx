@@ -203,7 +203,7 @@ const PriceListInner = () => {
 
                 <div className="rounded-3xl bg-white/10 p-5 flex items-center justify-center text-center min-h-[112px]">
                   <div className="be-vietnam-pro-bold text-white/90">
-                    Áp dụng cho đối tượng có thẻ BHYT
+                    Áp dụng cho Quý khách hàng có thẻ BHYT
                   </div>
                 </div>
               </div>
